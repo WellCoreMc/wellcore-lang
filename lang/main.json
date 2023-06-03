@@ -20,5 +20,10 @@
         "ru": ["", "§e▶ Нажмите, чтобы сменить язык!"],
         "en": ["", "§e▶ Click to change the language!"],
         "ua": ["", "§e▶ Натисніть, щоб змінити мову!"]
+    },
+    "NEED_GROUP": {
+        "ru": "§c§lWellCore §7:: §fДля этого необходима привилегия %s§f!",
+        "en": "§c§lWellCore §7:: §fTo use this, you need to have a %s §fstatus!",
+        "ua": "§c§lWellCore §7:: §fДля цього потрібно мати статус %s§f!"
     }
 }
