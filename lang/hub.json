@@ -1,0 +1,30 @@
+{
+    "BOARD": {
+      "ru": [
+          "",
+          "Статус: §7%s",
+          "",
+          "Монеты: §e%s",
+          "Алмазы: §b%s",
+          "",
+          "Уровень: §d%s",
+          "",
+          "Общий онлайн: §a%s",
+          "",
+          "§bwww.wellcore.fun"
+      ],
+      "en": [
+          "",
+          "Rank: §7%s",
+          "",
+          "Coins: §e%s",
+          "Diamonds: §b%s",
+          "",
+          "Level: §d%s",
+          "",
+          "Total online: §a%s",
+          "",
+          "§bwww.wellcore.fun"
+      ]
+    }
+}

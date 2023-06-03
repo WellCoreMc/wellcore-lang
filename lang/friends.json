@@ -1,0 +1,42 @@
+{
+    "LIST_MENU_TITLE": {
+        "ru": "Список друзей",
+        "en": "List of friends"
+    },
+    "ITEM_NAME_NO_FRIENDS": {
+        "ru": "§cСпсиок друзей пуст ;-;",
+        "en": "§cFriends list is empty ;-;"
+    },
+    "ITEM_LORE_NO_FRIENDS": {
+        "ru": ["§7В данный момент у вас нет", "§7ни одного друга"],
+        "en": ["§7You don't have any friends", "§7at the moment"]
+    },
+    "ITEM_LORE_ONLINE": {
+        "ru": [
+            "", 
+            "§fСервер: §a%s",
+            "§fЯзык: §a%s",
+            "",
+            "§a► Нажмите, чтобы подключиться"],
+        "en": [
+            "", 
+            "§fServer: §a%s",
+            "§fLanguage: §a%s",
+            "",
+            "§a► Click to connect"]
+    },
+    "ITEM_LORE_OFFLINE": {
+        "ru": [
+            "", 
+            "§fЯзык: §a%s",
+            "",
+            "§7Был в сети:",
+            "§a%s назад"],
+        "en": [
+            "", 
+            "§fLanguage: §a%s",
+            "",
+            "§7Was online:",
+            "§a%s ago"]
+    }
+}

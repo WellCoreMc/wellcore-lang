@@ -1,0 +1,54 @@
+{
+    "WAIT_BOARD": {
+      "ru": [
+          "§7%s %s",
+          "",
+          "Игроков: §a%s",
+          "",
+          "%s",
+          "",
+          "Карта: §a%s",
+          "Сервер: §a%s",
+          "",
+          "§bwww.wellcore.fun"
+      ],
+      "en": [
+          "§7%s %s",
+          "",
+          "Players: §a%s",
+          "",
+          "%s",
+          "",
+          "Map: §a%s",
+          "Server: §a%s",
+          "",
+          "§bwww.wellcore.fun"
+      ]
+    },
+    "END_BOARD": {
+      "ru": [
+          "§7%s %s",
+          "",
+          "Игроков: §a%s",
+          "",
+          "%s",
+          "",
+          "Карта: §a%s",
+          "Сервер: §a%s",
+          "",
+          "§bwww.wellcore.fun"
+      ],
+      "en": [
+          "§7%s %s",
+          "",
+          "Players: §a%s",
+          "",
+          "%s",
+          "",
+          "Map: §a%s",
+          "Server: §a%s",
+          "",
+          "§bwww.wellcore.fun"
+      ]
+    }
+}

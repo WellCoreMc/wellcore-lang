@@ -1,0 +1,89 @@
+{
+    "ONION_NAME": {
+        "ru": "§cB§6I§eT§aC§bH"
+    },
+    "DEFAULT_NAME": {
+        "ru": "§7Игрок",
+        "en": "§7Player",
+        "ua": "§7Гравець"
+    },
+    "CRYSTAL_NAME": {
+        "ru": "§bCrystal"
+    },
+    "ELYTRA_NAME": {
+        "ru": "§eElytra"
+    },
+    "DRAGON_NAME": {
+        "ru": "§5Dragon"
+    },
+    "ENDER_NAME": {
+        "ru": "§dEnder"
+    },
+    "ENDER_PLUS_NAME": {
+        "ru": "§eEnder+"
+    },
+    "NITRO_NAME": {
+        "ru": "§8Дc. Бустер",
+        "en": "§8Ds. Booster"
+    },
+    "UPSTART_NAME": {
+        "ru": "§cВыскочка",
+        "en": "§cUpstart"
+    },
+    "TESTER_NAME": {
+        "ru": "§aТестер",
+        "en": "§aTester"
+    },
+    "BUILDER_NAME": {
+        "ru": "§3Строитель",
+        "en": "§3Builder"
+    },
+    "MEDIA_NAME": {
+        "ru": "§6Блогер",
+        "en": "§6Media-Person"
+    },
+    "WARDEN_NAME": {
+        "ru": "§2Мл. Помошник",
+        "en": "§2Jr. Helper"
+    },
+    "HELPER_NAME": {
+        "ru": "§2Помошник",
+        "en": "§2Helper"
+    },
+    "MODER_NAME": {
+        "ru": "§9Модератор",
+        "en": "§9Moderator"
+    },
+    "PARTNER_NAME": {
+        "ru": "§eПартнер сервера",
+        "en": "§eServer-Partner"
+    },
+    "ADMIN_NAME": {
+        "ru": "§cАдминистратор",
+        "en": "§cAdministrator"
+    },
+    "JR_DEVELOPER_NAME": {
+        "ru": "§cМл. Разработчик",
+        "en": "§cJr. Developer"
+    },
+    "MD_DEVELOPER_NAME": {
+        "ru": "§cРазработчик",
+        "en": "§cDeveloper"
+    },
+    "SR_DEVELOPER_NAME": {
+        "ru": "§cСт. Разработчик",
+        "en": "§cSr. Developer"
+    },
+    "TEAMLEAD_NAME": {
+        "ru": "§cГлавная сучка",
+        "en": "§cMain bitch"
+    },
+    "MANAGER_NAME": {
+        "ru": "§3Менеджер",
+        "en": "§3Manager"
+    },
+    "OWNER_NAME": {
+        "ru": "§4Гл. Админ",
+        "en": "§4Sr. Admin"
+    }
+}

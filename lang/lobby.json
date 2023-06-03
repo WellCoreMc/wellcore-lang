@@ -1,0 +1,20 @@
+{
+    "SELECTOR_TITLE": {
+        "ru": "Выбор лобби",
+        "en": "Lobby selector"
+    },
+    "SELECTOR_ITEM_LORE_OTHER": {
+        "ru": [
+            "§7Онлайн: §9%s",
+            "", 
+            "§b▶ Нажмите, чтобы подключиться!"],
+        "en": [
+            "§7Online: §9%s",
+            "", 
+            "§b▶ Click to connect!"]
+    },
+    "SELECTOR_ITEM_LORE_THIS": {
+        "ru": ["", "§7Вы находитесь здесь"],
+        "en": ["", "§7You are here"]
+    }
+}
