@@ -1,7 +1,7 @@
 {
     "PING_MESSAGE": {
-        "ru": "§bСервер §8| §fВаш пинг §a%s §fмс",
-        "en": "§bServer §8| §fYour ping is §a%s §fms"
+        "ru": "§b§lСервер §8:: §fВаш пинг §a%s §fмс",
+        "en": "§b§lServer §8:: §fYour ping is §a%s §fms"
     },
     "LOADING_ITEM_NAME": {
         "ru": "§cЗагрузка...",
@@ -21,9 +21,22 @@
         "en": ["", "§e▶ Click to change the language!"],
         "ua": ["", "§e▶ Натисніть, щоб змінити мову!"]
     },
+    "SETGROUP_HELP": {
+        "ru": "§c§lWellCore §7:: §fИспользование - §e/setgroup <ник> <группа>",
+        "en": "§c§lWellCore §7:: §fUsage - §e/setgroup <name> <group>"
+    },
+    "PLAYER_NOT_FOUND": {
+        "ru": "§c§lWellCore §7:: §fУказанный игрок не найден!",
+        "en": "§c§lWellCore §7:: §fPlayer not Found!"
+    },
+    "SUCCESSFUL_CHANGED_GROUP": {
+        "ru": "§a§lWellCore §7:: §fВы успешно изменили группу игрока %s§f на %s",
+        "en": "§a§lWellCore §7:: §fSuccessful changed %s§f's group to %s"
+    },
     "NEED_GROUP": {
         "ru": "§c§lWellCore §7:: §fДля этого необходима привилегия %s§f!",
         "en": "§c§lWellCore §7:: §fTo use this, you need to have a %s §fstatus!",
         "ua": "§c§lWellCore §7:: §fДля цього потрібно мати статус %s§f!"
     }
+
 }
