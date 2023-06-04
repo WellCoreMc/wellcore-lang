@@ -52,6 +52,13 @@
     },
     "AUTH_ERROR": {
         "ru": "§c§lWellCore §7:: §fВы уже авторизованы, но вас не отправило в§b HUB§f. Сейчас исправим.."
+    },
+    "DONATE_CHAT": {
+        "ru": "§6Чат донатеров §8| ",
+        "en": "§6Donator's chat §8| "
+    },
+    "STAFF_CHAT": {
+        "ru": "§eЧат персонала §8| ",
+        "en": "§eStaff chat §8| "
     }
-
 }
