@@ -21,9 +21,32 @@
         "en": ["", "§e▶ Click to change the language!"],
         "ua": ["", "§e▶ Натисніть, щоб змінити мову!"]
     },
+    "ITEM_COST_LORE": {
+        "ru": ["", "§7Стоимость: §%s%s"]
+    },
+    "PRODUCT_ITEM_EQUIPPED": {
+        "ru": ["", "§c▶ Уже выбран!"]
+    },
+    "PRODUCT_ITEM_EQUIP": {
+        "ru": ["", "§e▶ Нажмите, чтобы выбрать!"]
+    },
+    "PRODUCT_ITEM_CAN_BUY": {
+        "ru": ["", "§e▶ Нажмите, чтобы купить!"]
+    },
+    "PRODUCT_ITEM_CANNOT_BUY": {
+        "ru": ["", "§c▶ Недостаточтно средств!"]
+    },
     "SETGROUP_HELP": {
         "ru": "§c§lWellCore §7:: §fИспользование - §e/setgroup <ник> <группа>",
         "en": "§c§lWellCore §7:: §fUsage - §e/setgroup <name> <group>"
+    },
+    "ADDMONEY_HELP": {
+        "ru": "§c§lWellCore §7:: §fИспользование - §e/addmoney <ник> <coins/diamonds> <значение>",
+        "en": "§c§lWellCore §7:: §fUsage - §e/setgroup <name> <coins/diamonds> <value>"
+    },
+    "ADDMONEY_SUCCESSFUL": {
+        "ru": "§a§lWellCore §7:: §fВы успешно количество валюты §e%s §fу игрока %s§f на %s",
+        "en": "§a§lWellCore §7:: §fSuccessful changed %s§f's group to %s"
     },
     "PLAYER_NOT_FOUND": {
         "ru": "§c§lWellCore §7:: §fУказанный игрок не найден!",
