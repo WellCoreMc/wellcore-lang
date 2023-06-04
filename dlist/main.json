@@ -7,6 +7,10 @@
         "ru": "§cЗагрузка...",
         "en": "§cLoading..."
     },
+    "JOINERS_TITLE": {
+        "ru": "Сообщения о входе",
+        "en": "Join messages"
+    },
     "LOADING_ITEM_LORE": {
         "ru": "§7Идёт загрузка данных",
         "en": "§7Data is being loaded"
