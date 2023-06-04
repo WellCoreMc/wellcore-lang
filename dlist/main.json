@@ -45,12 +45,15 @@
         "en": "§c§lWellCore §7:: §fUsage - §e/setgroup <name> <coins/diamonds> <value>"
     },
     "ADDMONEY_SUCCESSFUL": {
-        "ru": "§a§lWellCore §7:: §fВы успешно количество валюты §e%s §fу игрока %s§f на %s",
-        "en": "§a§lWellCore §7:: §fSuccessful changed %s§f's group to %s"
+        "ru": "§a§lWellCore §7:: §fИзменено количество валюты §e%s §fу игрока %s§f на §a+%s",
+        "en": "§a§lWellCore §7:: §fSuccessful changed %s§f currency value in §f's wallet with §a+%s"
     },
     "PLAYER_NOT_FOUND": {
         "ru": "§c§lWellCore §7:: §fУказанный игрок не найден!",
         "en": "§c§lWellCore §7:: §fPlayer not Found!"
+    },
+    "SUFFIXS_TITLE": {
+        "ru": "Титулы"
     },
     "SUCCESSFUL_CHANGED_GROUP": {
         "ru": "§a§lWellCore §7:: §fВы успешно изменили группу игрока %s§f на %s",
