@@ -1,7 +1,7 @@
 {
     "PING_MESSAGE": {
-        "ru": "§b§lСервер §8:: §fВаш пинг §a%s §fмс",
-        "en": "§b§lServer §8:: §fYour ping is §a%s §fms"
+        "ru": "§b§lWellCore §8:: §fВаш пинг §a%s §fмс",
+        "en": "§b§lWellCore §8:: §fYour ping is §a%s §fms"
     },
     "LOADING_ITEM_NAME": {
         "ru": "§cЗагрузка...",
