@@ -40,7 +40,18 @@
     },
     "REGISTER_USAGE": {
         "ru": "§c§lWellCore §7:: §fИспользуйте - §e/register <пароль> <повтор пароля>",
-        "en": "§c§lWellCore §7:: §fUsage - §e/register <password> <repeat password>",
+        "en": "§c§lWellCore §7:: §fUsage - §e/register <password> <repeat password>"
+    },
+    "AUTH_CHAT": {
+        "ru": "§c§lWellCore §7:: §fЧат выключен на этом сервере :c",
+        "en": "§c§lWellCore §7:: §fChat is not allowed at this server!"
+    },
+    "LOGIN_USAGE": {
+        "ru": "§c§lWellCore §7:: §fИспользуйте - §e/login <пароль>",
+        "en": "§c§lWellCore §7:: §fUsage - §e/login <password>"
+    },
+    "AUTH_ERROR": {
+        "ru": "§c§lWellCore §7:: §fВы уже авторизованы, но вас не отправило в§b HUB§f. Сейчас исправим.."
     }
 
 }
