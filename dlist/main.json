@@ -64,5 +64,138 @@
     "CHAT_USAGE": {
         "ru": "§c§lWellCore §7:: §fИспользуйте - §e/%s <сообщение>",
         "en": "§c§lWellCore §7:: §fUsage - §e/%s <message>"
+    },
+    "PREFIX_CHANGE_LORE": {
+        "ru": [
+          "§7Сменить префикс на: %s",
+          "",
+          "§e▸ Нажмите, чтобы установить префикс"
+        ],
+        "ua": [
+          "§7Змінити префікс на: %s",
+          "",
+          "§e▸ Натисніть, щоб встановити префікс"
+        ],
+        "en": [
+          "§7Change prefix to: %s",
+          "",
+          "§e▸ Click to set prefix"
+        ]
+      },
+      "PREFIX_CHANGE_LORE2": {
+        "ru": [
+          "",
+          "§aПрефикс выбран"
+        ],
+        "ua": [
+          "",
+          "§aПрефікс не обрано"
+        ],
+        "en": [
+          "",
+          "§aPrefix chosen"
+        ]
+      },
+      "NO_PREFIX_SET": {
+        "ru": "§c§lWellCore §8:: §fНельзя изменять префикс в игре!",
+    },
+      "PREFIX_SET": {
+        "ru": "§b§lWellCore §8:: §fВаш префикс был изменен",
+        "ua": "§b§lWellCore §8:: §fВаш префікс був змінений",
+        "en": "§b§lWellCore §8:: §fYour prefix has been changed"
+    },
+    "BLACK": {
+        "ru": "Чёрный"
+      },
+      "BROWN": {
+        "ru": "Коричневый"
+      },
+      "BLUE": {
+        "ru": "Синий"
+      },
+      "PURPLE": {
+        "ru": "Фиолетовый"
+      },
+      "CYAN": {
+        "ru": "Бирюзовый"
+      },
+      "LIGHT_GRAY": {
+        "ru": "Светло-серый"
+      },
+      "PINK": {
+        "ru": "Розовый"
+      },
+      "LIME": {
+        "ru": "Лаймовый"
+      },
+      "LIGHT_BLUE": {
+        "ru": "Голубой"
+      },
+      "MAGENTA": {
+        "ru": "Пурпурный"
+      },
+      "ORANGE": {
+        "ru": "Оранжевый"
+      },
+      "WHITE": {
+        "ru": "Белый"
+      },
+      "DARK_AQUA": {
+        "ru": "Бирюзовый",
+        "ua": "Бірюзовий",
+        "en": "Turquoise"
+      },
+      "DARK_BLUE": {
+        "ru": "Синий",
+        "ua": "Синій",
+        "en": "Blue"
+      },
+      "DARK_GRAY": {
+        "ru": "Темно-серый",
+        "ua": "Темно-сірий",
+        "en": "Drak gray"
+      },
+      "DARK_GREEN": {
+        "ru": "Зеленый",
+        "ua": "Зелений",
+        "en": "Green"
+      },
+      "DARK_PURPLE": {
+        "ru": "Фиолетовый",
+        "ua": "Фіолетовий",
+        "en": "Purple"
+      },
+      "DARK_RED": {
+        "ru": "Темно - красный",
+        "ua": "Темно-червоний",
+        "en": "Dark red"
+      },
+      "GREY": {
+        "ru": "Серый"
+      },
+      "YELLOW": {
+        "ru": "Жёлтый"
+      },
+      "GRAY": {
+        "ru": "Серый"
+      },
+      "AQUA": {
+        "ru": "Голубой"
+      },
+      "GREEN": {
+        "ru": "Зелёный"
+      },
+      "RED": {
+        "ru": "Красный"
+      },
+      "GOLD": {
+        "ru": "Оранжевый"
+      },
+      "LIGHT_PURPLE": {
+        "ru": "Розовый"
+      },
+    "PREFIX_TITLE": {
+        "ru": "Смена префикса",
+        "en": "Change prefix color"
     }
 }
