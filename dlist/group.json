@@ -215,6 +215,18 @@
       "LIGHT_PURPLE": {
         "ru": "Розовый"
       },
+      "COMMON": {
+        "ru": "Обычный"
+      },
+      "RARE": {
+        "ru": "Редкий"
+      },
+      "EPIC": {
+        "ru": "Эпический"
+      },
+      "LEGENDARY": {
+        "ru": "Легендарный"
+      },
     "PREFIX_TITLE": {
         "ru": "Смена префикса",
         "en": "Change prefix color"
