@@ -60,5 +60,9 @@
     "STAFF_CHAT": {
         "ru": "§eЧат персонала §8| ",
         "en": "§eStaff chat §8| "
+    },
+    "CHAT_USAGE": {
+        "ru": "§c§lWellCore §7:: §fИспользуйте - §e/%s <сообщение>",
+        "en": "§c§lWellCore §7:: §fUsage - §e/%s <message>"
     }
 }
