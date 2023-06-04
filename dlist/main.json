@@ -37,6 +37,10 @@
         "ru": "§c§lWellCore §7:: §fДля этого необходима привилегия %s§f!",
         "en": "§c§lWellCore §7:: §fTo use this, you need to have a %s §fstatus!",
         "ua": "§c§lWellCore §7:: §fДля цього потрібно мати статус %s§f!"
+    },
+    "REGISTER_USAGE": {
+        "ru": "§c§lWellCore §7:: §fИспользуйте - §e/register <пароль> <повтор пароля>",
+        "en": "§c§lWellCore §7:: §fUsage - §e/register <password> <repeat password>",
     }
 
 }
