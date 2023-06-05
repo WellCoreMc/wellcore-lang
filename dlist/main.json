@@ -155,7 +155,7 @@
         "en": "§c§lWellCore §8:: §fLicensed account with this name not found!"
     },
     "SUCCESSFUL_CHANGED_SKIN": {
-        "ru": "§b§lWellCore §8:: §fСкин успешно изменен!",
-        "en": "§b§lWellCore §8:: §fSkin has been successfully changed!"
+        "ru": "§b§lWellCore §8:: §fСкин успешно изменен! Вам нужно перезайти.",
+        "en": "§b§lWellCore §8:: §fSkin has been successfully changed! Please rejoin."
     }
 }
