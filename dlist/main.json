@@ -11,6 +11,20 @@
         "ru": "Сообщения о входе",
         "en": "Join messages"
     },
+    "PROFILE_MAIN_ITEM_NAME": {
+        "ru": "§bОбщая информация",
+        "en": "§bProfile information"
+    },
+    "PROFILE_MAIN_ITEM_LORE": {
+        "ru": [
+        "§7Статус: %s", 
+        "",
+        "§7Монет: §6%s",
+        "§7Алмазов: §b%s",
+        "§7Уровень: §d%s",
+        "",
+        "§7Скин: §f%s"]
+    },
     "LOADING_ITEM_LORE": {
         "ru": "§7Идёт загрузка данных",
         "en": "§7Data is being loaded"
