@@ -8,82 +8,98 @@
         "ua": "§7Гравець"
     },
     "CRYSTAL_NAME": {
-        "ru": "§bCrystal"
+        "ru": "§b§lCRYSTAL"
     },
     "ELYTRA_NAME": {
-        "ru": "§eElytra"
+        "ru": "§e§lELYTRA"
     },
     "DRAGON_NAME": {
-        "ru": "§5Dragon"
+        "ru": "§5§lDRAGON"
     },
     "ENDER_NAME": {
-        "ru": "§dEnder"
+        "ru": "§d§lENDER"
     },
     "ENDER_PLUS_NAME": {
-        "ru": "§eEnder+"
+        "ru": "§7§lENDER+"
     },
     "NITRO_NAME": {
         "ru": "§8Дc. Бустер",
-        "en": "§8Ds. Booster"
+        "en": "§8Ds. Booster",
+        "ua": "§8Ds. Бустер"
     },
     "UPSTART_NAME": {
         "ru": "§cВыскочка",
+        "ua": "§cВипадковий",
         "en": "§cUpstart"
     },
     "TESTER_NAME": {
         "ru": "§aТестер",
+        "ua": "§aТестер",
         "en": "§aTester"
     },
     "BUILDER_NAME": {
         "ru": "§3Строитель",
+        "ua": "§3Будівельник",
         "en": "§3Builder"
     },
     "MEDIA_NAME": {
         "ru": "§6Блогер",
+        "ua": "§6Блогер",
         "en": "§6Media-Person"
     },
     "WARDEN_NAME": {
         "ru": "§2Мл. Помошник",
+        "ua": "§2Мл. Помічник",
         "en": "§2Jr. Helper"
     },
     "HELPER_NAME": {
-        "ru": "§2Помошник",
+        "ru": "§2Помощник",
+        "ua": "§2Помічник",
         "en": "§2Helper"
     },
     "MODER_NAME": {
         "ru": "§9Модератор",
+        "ua": "§9Модератор",
         "en": "§9Moderator"
     },
     "PARTNER_NAME": {
         "ru": "§eПартнер сервера",
+        "ua": "§eПартнер серверу",
         "en": "§eServer-Partner"
     },
     "ADMIN_NAME": {
-        "ru": "§cАдминистратор",
+        "ru": "§cАдмин",
+        "ua": "§cАдмін",
         "en": "§cAdministrator"
     },
     "JR_DEVELOPER_NAME": {
-        "ru": "§cМл. Разработчик",
-        "en": "§cJr. Developer"
+        "ru": "§dМл. Разработчик",
+        "ua": "§dМл. Розробник",
+        "en": "§dJr. Developer"
     },
     "MD_DEVELOPER_NAME": {
-        "ru": "§cРазработчик",
-        "en": "§cDeveloper"
+        "ru": "§dРазработчик",
+        "ua": "§dРозробник",
+        "en": "§dDeveloper"
     },
     "SR_DEVELOPER_NAME": {
-        "ru": "§cСт. Разработчик",
-        "en": "§cSr. Developer"
+        "ru": "§3Ст. Разработчик",
+        "ua": "§3Ст. Розробник",
+        "en": "§3Sr. Developer"
     },
     "TEAMLEAD_NAME": {
         "ru": "§cГлавная сучка",
+        "ua": "§cГоловна сучка",
         "en": "§cMain bitch"
     },
     "MANAGER_NAME": {
         "ru": "§3Менеджер",
+        "ua": "§3Менеджер",
         "en": "§3Manager"
     },
     "OWNER_NAME": {
         "ru": "§4Гл. Админ",
+        "ua": "§4Гл. Адмін",
         "en": "§4Sr. Admin"
     },
     "PREFIX_CHANGE_LORE": {
@@ -118,7 +134,9 @@
         ]
       },
       "NO_PREFIX_SET": {
-        "ru": "§c§lWellCore §8:: §fНельзя изменять префикс в игре!"
+        "ru": "§c§lWellCore §8:: §fНельзя изменять префикс в игре!",
+        "ua": "§c§lWellCore §8:: §fНеможливо змінювати префікс в грі!",
+        "en": "§c§lWellCore §8:: §fCannot change prefix in-game!"
     },
       "PREFIX_SET": {
         "ru": "§b§lWellCore §8:: §fВаш префикс был изменен",
@@ -126,40 +144,64 @@
         "en": "§b§lWellCore §8:: §fYour prefix has been changed"
     },
     "BLACK": {
-        "ru": "Чёрный"
+        "ru": "Чёрный",
+        "ua": "Чорний",
+        "en": "Black"
       },
       "BROWN": {
-        "ru": "Коричневый"
+        "ru": "Коричневый",
+        "ua": "Коричневий",
+        "en": "Brown"
       },
       "BLUE": {
-        "ru": "Синий"
+        "ru": "Синий",
+        "ua": "Синій",
+        "en": "Blue"
       },
       "PURPLE": {
-        "ru": "Фиолетовый"
+        "ru": "Фиолетовый",
+        "ua": "Фіолетовий",
+        "en": "Purple"
       },
       "CYAN": {
-        "ru": "Бирюзовый"
+        "ru": "Бирюзовый",
+        "ua": "Бірюзовий",
+        "en": "Cyan"
       },
       "LIGHT_GRAY": {
-        "ru": "Светло-серый"
+        "ru": "Светло-серый",
+        "ua": "Світло-сірий",
+        "en": "Light gray"
       },
       "PINK": {
-        "ru": "Розовый"
+        "ru": "Розовый",
+        "ua": "Рожевий",
+        "en": "Pink"
       },
       "LIME": {
-        "ru": "Лаймовый"
+        "ru": "Лаймовый",
+        "ua": "Лаймовий",
+        "en": "Lime"
       },
       "LIGHT_BLUE": {
-        "ru": "Голубой"
+        "ru": "Голубой",
+        "ua": "Блакитний",
+        "en": "Light blue"
       },
       "MAGENTA": {
-        "ru": "Пурпурный"
+        "ru": "Пурпурный",
+        "ua": "Малиновий",
+        "en": "Magenta"
       },
       "ORANGE": {
-        "ru": "Оранжевый"
+        "ru": "Оранжевый",
+        "ua": "Помаранчевий",
+        "en": "Orange"
       },
       "WHITE": {
-        "ru": "Белый"
+        "ru": "Белый",
+        "ua": "Білий",
+        "en": "White"
       },
       "DARK_AQUA": {
         "ru": "Бирюзовый",
@@ -192,40 +234,64 @@
         "en": "Dark red"
       },
       "GREY": {
-        "ru": "Серый"
+        "ru": "Серый",
+        "ua": "Сірий",
+        "en": "Gray"
       },
       "YELLOW": {
-        "ru": "Жёлтый"
+        "ru": "Жёлтый",
+        "ua": "Жовтий",
+        "en": "Yellow"
       },
       "GRAY": {
-        "ru": "Серый"
+        "ru": "Серый",
+        "ua": "Сірий",
+        "en": "Gray"
       },
       "AQUA": {
-        "ru": "Голубой"
+        "ru": "Голубой",
+        "ua": "Блакитний",
+        "en": "Aqua"
       },
       "GREEN": {
-        "ru": "Зелёный"
+        "ru": "Зелёный",
+        "ua": "Зелений",
+        "en": "Green"
       },
       "RED": {
-        "ru": "Красный"
+        "ru": "Красный",
+        "ua": "Червоний",
+        "en": "Red"
       },
       "GOLD": {
-        "ru": "Оранжевый"
+        "ru": "Оранжевый",
+        "ua": "Золотий",
+        "en": "Gold"
       },
       "LIGHT_PURPLE": {
-        "ru": "Розовый"
+        "ru": "Розовый",
+        "ua": "Фіолетовий",
+        "en": "Light purple"
       },
       "COMMON": {
-        "ru": "Обычный"
+        "ru": "Обычный",
+        "ua": "Звичайний",
+        "en": "Common"
       },
       "RARE": {
-        "ru": "Редкий"
+        "ru": "Редкий",
+        "ua": "Рідкісний",
+        "en": "Rare"
       },
       "EPIC": {
-        "ru": "Эпический"
+        "ru": "Эпический",
+        "ua": "Епічний",
+        "en": "Epic"
       },
       "LEGENDARY": {
-        "ru": "Легендарный"
+        "ru": "Легендарный",
+        "ua": "Легендарний",
+        "en": "Legendary"
       },
     "PREFIX_TITLE": {
         "ru": "Смена префикса",
