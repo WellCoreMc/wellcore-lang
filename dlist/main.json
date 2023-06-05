@@ -55,12 +55,12 @@
         "ru": ["", "§c▶ Недостаточно средств!"]
     },
     "SETGROUP_HELP": {
-        "ru": "§c§lWellCore §7:: §fИспользование - §e/setgroup <ник> <группа>",
-        "en": "§c§lWellCore §7:: §fUsage - §e/setgroup <name> <group>"
+        "ru": "§c§lWellCore §7:: §fИспользование - §b/setgroup <ник> <группа>",
+        "en": "§c§lWellCore §7:: §fUsage - §b/setgroup <name> <group>"
     },
     "ADDMONEY_HELP": {
-        "ru": "§c§lWellCore §7:: §fИспользование - §e/addmoney <ник> <coins/diamonds> <значение>",
-        "en": "§c§lWellCore §7:: §fUsage - §e/setgroup <name> <coins/diamonds> <value>"
+        "ru": "§c§lWellCore §7:: §fИспользование - §b/addmoney <ник> <coins/diamonds> <значение>",
+        "en": "§c§lWellCore §7:: §fUsage - §b/setgroup <name> <coins/diamonds> <value>"
     },
     "ADDMONEY_SUCCESSFUL": {
         "ru": "§a§lWellCore §7:: §fИзменено количество валюты §e%s §fу игрока %s§f на §a+%s",
@@ -86,16 +86,16 @@
         "ua": "§c§lWellCore §7:: §fДля цього потрібно мати статус %s§f!"
     },
     "REGISTER_USAGE": {
-        "ru": "§c§lWellCore §7:: §fИспользуйте - §e/register <пароль> <повтор пароля>",
-        "en": "§c§lWellCore §7:: §fUsage - §e/register <password> <repeat password>"
+        "ru": "§c§lWellCore §7:: §fИспользуйте - §b/register <пароль> <повтор пароля>",
+        "en": "§c§lWellCore §7:: §fUsage - §b/register <password> <repeat password>"
     },
     "AUTH_CHAT": {
         "ru": "§c§lWellCore §7:: §fЧат выключен на этом сервере :c",
         "en": "§c§lWellCore §7:: §fChat is not allowed at this server!"
     },
     "LOGIN_USAGE": {
-        "ru": "§c§lWellCore §7:: §fИспользуйте - §e/login <пароль>",
-        "en": "§c§lWellCore §7:: §fUsage - §e/login <password>"
+        "ru": "§c§lWellCore §7:: §fИспользуйте - §b/login <пароль>",
+        "en": "§c§lWellCore §7:: §fUsage - §b/login <password>"
     },
     "AUTH_ERROR": {
         "ru": "§c§lWellCore §7:: §fВы уже авторизованы, но вас не отправило в§b HUB§f. Сейчас исправим.."
@@ -109,8 +109,8 @@
         "en": "§eStaff chat §8| "
     },
     "CHAT_USAGE": {
-        "ru": "§c§lWellCore §7:: §fИспользуйте - §e/%s <сообщение>",
-        "en": "§c§lWellCore §7:: §fUsage - §e/%s <message>"
+        "ru": "§c§lWellCore §7:: §fИспользуйте - §b/%s <сообщение>",
+        "en": "§c§lWellCore §7:: §fUsage - §b/%s <message>"
     },
     "GET_LOGS": {
       "ru": "§b§lWellCore §7:: §fСсылка на логи - §b%s",
@@ -139,5 +139,11 @@
     },
     "PREFIX_PROFILE_LORE": {
         "ru": ["", "§e▶ Нажмите, чтобы открыть меню!"]
+    },
+    "SUFFIX_PROFILE_NAME": {
+        "ru": "§bТитулы"
+    },
+    "SUFFIX_PROFILE_LORE": {
+        "ru": ["", "§7Стань круче и выделись", "§7с помощью новых §b§lТИТУЛОВ", "§7Титулы составлены из любимых вами персонажей", "§7которые точно вам понравятся :)", "§e▶ Нажмите, чтобы открыть меню!"]
     }
 }
