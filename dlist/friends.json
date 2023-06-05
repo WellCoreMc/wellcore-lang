@@ -1,15 +1,18 @@
 {
     "FRIENDS_LIST_MENU_TITLE": {
         "ru": "Список друзей",
-        "en": "List of friends"
+        "en": "List of friends",
+        "ua": "Список друзів"
     },
     "FRIENDS_ITEM_NAME_NO_FRIENDS": {
         "ru": "§cСпсиок друзей пуст ;-;",
-        "en": "§cFriends list is empty ;-;"
+        "en": "§cFriends list is empty ;-;",
+        "ua": "§cСписок друзів порожній ;-;"
     },
     "FRIENDS_ITEM_LORE_NO_FRIENDS": {
         "ru": ["§7В данный момент у вас нет", "§7ни одного друга"],
-        "en": ["§7You don't have any friends", "§7at the moment"]
+        "en": ["§7You don't have any friends", "§7at the moment"],
+        "ua": ["§7У вас немає жодного друга", "§7на даний момент"]
     },
     "FRIENDS_ITEM_LORE_ONLINE": {
         "ru": [
@@ -23,8 +26,14 @@
             "§fServer: §a%s",
             "§fLanguage: §a%s",
             "",
-            "§a► Click to connect"]
-    },
+            "§a► Click to connect"],
+        "ua": [
+            "",
+            "§fСервер: §a%s",
+            "§fМова: §a%s",
+            "",
+            "§a► Натисніть, щоб підключитися"]
+},
     "FRIENDS_ITEM_LORE_OFFLINE": {
         "ru": [
             "", 
@@ -37,6 +46,12 @@
             "§fLanguage: §a%s",
             "",
             "§7Was online:",
-            "§a%s ago"]
+            "§a%s ago"],
+        "ua": [
+            "",
+            "§fМова: §a%s",
+            "",
+            "§7Був у мережі:",
+            "§a%s тому"]
     }
 }
