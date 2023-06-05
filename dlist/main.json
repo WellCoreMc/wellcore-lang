@@ -45,6 +45,12 @@
     "PRODUCT_ITEM_EQUIPPED": {
         "ru": ["", "§c▶ Уже выбран!"]
     },
+    "MODE_AVAILABLE_LORE": {
+        "ru": "§a▶ Нажмите, чтобы подключиться!"
+    },
+    "MODE_UNAVAILABLE_LORE": {
+        "ru": "§c▶ Сервера не найдены!"
+    },
     "PRODUCT_ITEM_EQUIP": {
         "ru": ["", "§e▶ Нажмите, чтобы выбрать!"]
     },
