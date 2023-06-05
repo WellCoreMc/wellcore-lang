@@ -73,6 +73,9 @@
     "SUFFIXS_TITLE": {
         "ru": "Титулы"
     },
+    "PROFILE_TITLE": {
+        "ru": "Профиль"
+    },
     "SUCCESSFUL_CHANGED_GROUP": {
         "ru": "§a§lWellCore §7:: §fВы успешно изменили группу игрока %s§f на %s",
         "en": "§a§lWellCore §7:: §fSuccessful changed %s§f's group to %s"
