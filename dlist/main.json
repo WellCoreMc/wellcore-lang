@@ -98,5 +98,29 @@
     "GET_LOGS": {
       "ru": "§b§lWellCore §7:: §fСсылка на логи - §b%s",
       "en": "§b§lWellCore §7:: §fLogs - §b%s"
-    } 
+    },
+    "JOINER_PROFILE_NAME": {
+        "ru": "§bСообщения о входе"
+    },
+    "JOINER_PROFILE_LORE": {
+        "ru": ["", "§b▶ Нажмите, чтобы открыть меню!"]
+    },
+    "LANG_PROFILE_NAME": {
+        "ru": "§bСмена языка"
+    },
+    "LANG_PROFILE_LORE": {
+        "ru": ["", "§b▶ Нажмите, чтобы открыть меню!"]
+    },
+    "FRIENDS_PROFILE_NAME": {
+        "ru": "§aСписок друзей"
+    },
+    "FRIENDS_PROFILE_LORE": {
+        "ru": ["", "§a▶ Нажмите, чтобы открыть меню!"]
+    },
+    "PREFIX_PROFILE_NAME": {
+        "ru": "§eСмена префикса"
+    },
+    "PREFIX_PROFILE_LORE": {
+        "ru": ["", "§e▶ Нажмите, чтобы открыть меню!"]
+    }
 }
