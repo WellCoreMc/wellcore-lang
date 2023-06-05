@@ -145,5 +145,17 @@
     },
     "SUFFIX_PROFILE_LORE": {
         "ru": ["", "§7Стань круче и выделись", "§7с помощью новых §b§lТИТУЛОВ", "§7Титулы составлены из любимых вами персонажей", "§7которые точно вам понравятся :)", "", "§e▶ Нажмите, чтобы открыть меню!"]
+    },
+    "SKIN_USAGE": {
+        "ru": "§c§lWellCore §8:: §fИспользование - §e/skin <ник скина>",
+        "en": "§c§lWellCore §8:: §fUsage - §e/skin <skin name>"
+    },
+    "SKIN_NOT_FOUND": {
+        "ru": "§c§lWellCore §8:: §fНе найден лицензионный аккаунт с этим именем.",
+        "en": "§c§lWellCore §8:: §fLicensed account with this name not found!"
+    },
+    "SUCCESSFUL_CHANGED_SKIN": {
+        "ru": "§b§lWellCore §8:: §fСкин успешно изменен!",
+        "en": "§b§lWellCore §8:: §fSkin has been successfully changed!"
     }
 }
