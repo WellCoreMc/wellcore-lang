@@ -182,8 +182,11 @@
     "MENU_HUB_LORE": {
         "ru": ["", "§e▶ Нажмите, чтобы телепортироваться!"]
     },
-    "GAMESELECTOR_ITEM_TITLE": {
+    "GAMESELECTOR_ITEM_NAME": {
         "ru": "§bИгровые режимы"
+    },
+    "GAMEMENU_TITLE": {
+        "ru": "§8Игровые режимы"
     },
     "GAMESELECTOR_ITEM_LORE": {
         "ru": ["", "§7Удобный инструмент для", "§7перемещения по серверам"]
@@ -191,7 +194,10 @@
     "SERVER_NOT_FOUND": {
         "ru": "§cОшибка, сервера не найдены"
     },
-    "GAMEMENU_TITLE": {
-        "ru": "§8Список игровых режимов"
+    "LOBBY_SELECTOR_NAME": {
+        "ru": "§bВыбор лобби"
+    },
+    "LOBBY_SELECTOR_LORE": {
+        "ru": "§7Выбери подходящее тебе лобби"
     }
 }
