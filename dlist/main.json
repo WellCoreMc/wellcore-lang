@@ -163,28 +163,5 @@
     "SUCCESSFUL_CHANGED_SKIN": {
         "ru": "§b§lWellCore §8:: §fСкин успешно изменен! Вам нужно перезайти.",
         "en": "§b§lWellCore §8:: §fSkin has been successfully changed! Please rejoin."
-    },
-    "WHOIS_USAGE": {
-        "ru": "§c§lWellCore §8:: §fИспользование - §e/whois <ник>",
-        "en": "§c§lWellCore §8:: §fUsage - §e/whois <name>"
-    },
-    "SOME_ERROR": {
-        "ru": "§c§lWellCore §8:: §fПри исполнении команды возникла проблема.. Благо мы юзаем §b@SneakyThrows§f и не пришлось париться. §7(MESSAGE: %s)"
-    },
-    "WHOIS_SUCCESS": {
-        "ru": [
-        "§b§lWellCore §8:: §fИнформация об игроке %s§f:", 
-        "§7[AUTHSERVICE]:",
-        " §fИдентификатор - §e%s", 
-        " §fIP - §e%s", 
-        " §fПоследний сервер - §c%s", 
-        " §fДата регистрации - §a%s", 
-        "§7[USERSERVICE]:",
-        " §fУровень - §d%s", 
-        " §fАлмазов - §b%s", 
-        " §fМонет - §6%s",
-        " §fГруппа - §7%s",
-        " §fЯзык - §e%s",
-        " §fВерсия - §b%s"]
     }
 }
