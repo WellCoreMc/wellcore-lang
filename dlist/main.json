@@ -191,12 +191,19 @@
         "ru": "§c§lWellCore §8:: §fИспользование - §e/%s <ник> <время/-a> <причина>",
         "en": "§c§lWellCore §8:: §fUsage - §e/%s <name> <duration/-a> <reason>"
     },
+    "UNPUNISH_HELP": {
+        "ru": "§c§lWellCore §8:: §fИспользование - §e/un%s <ник>",
+        "en": "§c§lWellCore §8:: §fUsage - §e/un%s <name>"
+    },
     "ALREADY_PUNISHED": {
         "ru": "§c§lWellCore §8:: §fОшибка, у игрока уже есть наказание с типом §b%s§f.",
         "en": "§c§lWellCore §8:: §fPlayer already has §b%s§f punish."
     },
     "STAFF_PUNISH_NOTIFY": {
         "ru": "§9§lМодерация §8:: §f%s §fвыдал наказание §b%s §fигроку %s §fистекаюшее через §c%s§f по причине: §7%s."
+    },
+    "STAFF_UNPUNISH_NOTIFY": {
+        "ru": "§9§lМодерация §8:: §f%s §fснял наказание §b%s§f с игрока %s"
     },
     "DONT_HAVE_PUNISH": {
         "ru": "§c§lWellCore §8:: §fОшибка, у игрока уже нету наказания с типом §b%s§f.",
