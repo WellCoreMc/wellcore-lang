@@ -208,5 +208,13 @@
     "DONT_HAVE_PUNISH": {
         "ru": "§c§lWellCore §8:: §fОшибка, у игрока уже нету наказания с типом §b%s§f.",
         "en": "§c§lWellCore §8:: §fPlayer dont have §b%s§f punish."
+    },
+    "MUTED_MESSAGE": {
+        "ru": [
+        " §c§lВАС ЗАМУТИЛИ!",
+        " §7Замутил: §e%s", 
+        " §7Истекает через: §a%s", 
+        " §7Причина: §f%s", 
+        ""]
     }
 }
