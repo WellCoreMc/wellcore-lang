@@ -1,0 +1,44 @@
+{
+    "CLEARLAG": {
+        "ru": "§2§lWellCore §8:: §fБыло удалено §a%s §fпредметов с земли."
+    },
+    "CLEARLAG_TIMER": {
+        "ru": "§e§lWellCore §8:: §fОчистка предметов через §a%s"
+    },
+    "CLEAR_SUCCESS_RESET": {
+        "ru": "§b§lWellCore §8:: §fВаш инвентарь был успешно очищен."
+    },
+    "SUCCESSFULLY_DAY": {
+        "ru": "§b§lWellCore §8:: §fВы успешно изменили время на §aдень§f!"
+    },
+    "EXT_MESSAGE": {
+        "ru": "§b§lWellCore §8:: §fВы успешно потушили себя!"
+    },
+    "FEED_MESSAGE": {
+        "ru": "§b§lWellCore §8:: §fПопробуй муа муа.. попробуй джага-джага.. Вот ты и сыт!"
+    },
+    "TOGGLE_FLYING_TRUE": {
+        "ru": "§b§lWellCore §8:: §fВы §aвключили§f режим полёта!"
+    },
+    "TOGGLE_FLYING_FALSE": {
+        "ru": "§b§lWellCore §8:: §fВы §cвыключили§f режим полёта!"
+    },
+    "GAMEMODE_USAGE": {
+        "ru": "§c§lWellCore §8:: §fИспользование - §e/gamemode <номер режима>"
+    },
+    "GAMEMODE_INVALID": {
+        "ru": "§c§lWellCore §8:: §fОшибка, неверно указан номер режима. §7(0, 1, 2, 3)"
+    },
+    "SUCCESS_GAMEMODE": {
+        "ru": "§b§lWellCore §8:: §fВаш игровой режим был изменен на §a%s"
+    },
+    "TOGGLE_GOD_TRUE": {
+        "ru": "§b§lWellCore §8:: §fВы §aвключили§f режим бога!"
+    },
+    "TOGGLE_GOD_FALSE": {
+        "ru": "§b§lWellCore §8:: §fВы §cвыключили§f режим бога!"
+    },
+    "HEAL_MESSAGE": {
+        "ru": "§b§lWellCore §8:: §fВы были вылечены!"
+    }
+}
