@@ -229,5 +229,23 @@
         " §d§lforum.wellcore.fun",
         "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
         ""]
+    },
+    "GAMESELECTOR_ITEM_NAME": {
+        "ru": "§bВыбор режима"
+    },
+    "GAMESELECTOR_ITEM_LORE": {
+        "ru": "§7что-то"
+    },
+    "MENU_PROFILE_NAME": {
+        "ru": "§bПрофиль"
+    },
+    "MENU_PROFILE_LORE": {
+        "ru": "§7что-то"
+    },
+    "LOBBY_SELECTOR_NAME": {
+        "ru": "§dВыбор лобби"
+    },
+    "LOBBY_SELECTOR_LORE": {
+        "ru": "§7что-то"
     }
 }
