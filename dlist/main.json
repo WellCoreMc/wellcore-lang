@@ -51,6 +51,9 @@
     "MODE_UNAVAILABLE_LORE": {
         "ru": "§c▶ Сервера не найдены!"
     },
+    "SERVER_NOT_FOUND": {
+        "ru": "§c§lWellCore §7:: §fСервер не найден. Простите :c"
+    },
     "PRODUCT_ITEM_EQUIP": {
         "ru": ["", "§e▶ Нажмите, чтобы выбрать!"]
     },
