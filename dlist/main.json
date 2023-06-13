@@ -64,6 +64,9 @@
         "ru": "§c§lWellCore §7:: §fИспользование - §b/setgroup <ник> <группа>",
         "en": "§c§lWellCore §7:: §fUsage - §b/setgroup <name> <group>"
     },
+    "KICK_HELP": {
+        "ru": "§c§lWellCore §7:: §fИспользование - §b/kick <ник> <причина>"
+    },
     "ADDMONEY_HELP": {
         "ru": "§c§lWellCore §7:: §fИспользование - §b/addmoney <ник> <coins/diamonds> <значение>",
         "en": "§c§lWellCore §7:: §fUsage - §b/setgroup <name> <coins/diamonds> <value>"
@@ -190,6 +193,9 @@
     "PUNISH_HELP": {
         "ru": "§c§lWellCore §8:: §fИспользование - §e/%s <ник> <время/-a> <причина>",
         "en": "§c§lWellCore §8:: §fUsage - §e/%s <name> <duration/-a> <reason>"
+    },
+    "FUCK_HELP": {
+        "ru": "§c§lWellCore §8:: §fИспользование - §e/fuck <ник>"
     },
     "UNPUNISH_HELP": {
         "ru": "§c§lWellCore §8:: §fИспользование - §e/un%s <ник>",
