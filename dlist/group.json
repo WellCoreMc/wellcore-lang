@@ -2,25 +2,30 @@
     "ONION_NAME": {
         "ru": "§cB§6I§eT§aC§bH"
     },
+  
     "DEFAULT_NAME": {
         "ru": "§7Игрок",
         "en": "§7Player",
         "ua": "§7Гравець"
     },
     "CRYSTAL_NAME": {
-        "ru": "§b§lCRYSTAL"
+        "ru": "§b§lКРИСТАЛ",
+        "en": "§b§lCRYSTAL",
+        "ua": "§b§lКРИСТАЛ"
     },
     "ELYTRA_NAME": {
-        "ru": "§e§lELYTRA"
+        "ru": "§e§lЭЛИТРА",
+        "en": "§e§lELYTRA",
+        "ua": "§e§lЕЛІТРА"
     },
     "DRAGON_NAME": {
-        "ru": "§5§lDRAGON"
+        "en": "§5§lDRAGON"
     },
     "ENDER_NAME": {
-        "ru": "§d§lENDER"
+        "en": "§d§lENDER"
     },
     "ENDER_PLUS_NAME": {
-        "ru": "§7§lENDER+"
+        "en": "§7§lENDER+"
     },
     "NITRO_NAME": {
         "ru": "§8Дc. Бустер",
