@@ -1,19 +1,23 @@
 {
     "PING_MESSAGE": {
         "ru": "§b§lWellCore §8:: §fВаш пинг §a%s §fмс",
-        "en": "§b§lWellCore §8:: §fYour ping is §a%s §fms"
+        "en": "§b§lWellCore §8:: §fYour ping is §a%s §fms",
+        "ua": "§b§lWellcore §8:: §fВаш пінг §a%s §fмс"
     },
     "LOADING_ITEM_NAME": {
         "ru": "§cЗагрузка...",
-        "en": "§cLoading..."
+        "en": "§cLoading...",
+        "ua": "§cЗавантаження..."
     },
     "JOINERS_TITLE": {
         "ru": "Сообщения о входе",
-        "en": "Join messages"
+        "en": "Join messages",
+        "ua": "Повідомлення про вхід"
     },
     "PROFILE_MAIN_ITEM_NAME": {
         "ru": "§bОбщая информация",
-        "en": "§bProfile information"
+        "en": "§bProfile information",
+        "ua": "§bЗагальна інформація"
     },
     "PROFILE_MAIN_ITEM_LORE": {
         "ru": [
@@ -23,7 +27,25 @@
         "§7Алмазов: §b%s",
         "§7Уровень: §d%s",
         "",
-        "§7Скин: §f%s"]
+        "§7Скин: §f%s"],
+        "en": [
+        "§7Status: %s",
+        "",
+        "§7Coins: §6%s",
+        "§7Diamonds: §b%s",
+        "§7Level: §d%s",
+        "",
+        "Skin: §b%s"
+        ],
+        "ua": [
+        "§7Статус: %s",
+        "",
+        "§7Монет: §6%s",
+        "§7Діамантів: §b%s",
+        "§7Рівень: §d%s",
+        "",
+        "§7Скін: §b%s"
+        ]
     },
     "LOADING_ITEM_LORE": {
         "ru": "§7Идёт загрузка данных",
@@ -40,35 +62,54 @@
         "ua": ["", "§e▶ Натисніть, щоб змінити мову!"]
     },
     "ITEM_COST_LORE": {
-        "ru": ["", "§7Стоимость: §%s", "§7Редкость: %s"]
+        "ru": ["", "§7Стоимость: §%s", "§7Редкость: %s"],
+        "en": ["", "§7Price: §%s", "§7Rarity: %s"],
+        "ua": ["", "§7Вартість: §%s", "§7Рідкість: %s"]
     },
     "PRODUCT_ITEM_EQUIPPED": {
-        "ru": ["", "§c▶ Уже выбран!"]
+        "ru": ["", "§c▶ Уже выбран!"],
+        "en": ["", "§c▶ Already selected!"],
+        "ua": ["", "§c▶ Вже вибраний!"]
     },
     "MODE_AVAILABLE_LORE": {
-        "ru": "§a▶ Нажмите, чтобы подключиться!"
+        "ru": "§a▶ Нажмите, чтобы подключиться!",
+        "en": "§a▶ Click, to conect!",
+        "ua": "§a▶ Натисніть, щоб підключитись!"
     },
     "MODE_UNAVAILABLE_LORE": {
-        "ru": "§c▶ Сервера не найдены!"
+        "ru": "§c▶ Сервера не найдены!",
+        "en": "§c▶ Servers not found!",
+        "ua": "§c▶ Серверыв не знайдено!"
     },
     "SERVER_NOT_FOUND": {
-        "ru": "§c§lWellCore §7:: §fСервер не найден. Простите :c"
+        "ru": "§c§lWellCore §7:: §fСервер не найден. Простите :(",
+        "en": "§c§lWellCore §7:: §fServer not found. Sorry :(",
+        "ua": "§c§lWellCore §7:: §fСервер не знайдено. Вибачте :("
     },
     "PRODUCT_ITEM_EQUIP": {
-        "ru": ["", "§e▶ Нажмите, чтобы выбрать!"]
+        "ru": ["", "§e▶ Нажмите, чтобы выбрать!"],
+        "en": ["", "§e▶ Click to сhoose"],
+        "ua": ["", "§e▶ Натисныть, щоб вибрати"]
     },
     "PRODUCT_ITEM_CAN_BUY": {
-        "ru": ["", "§e▶ Нажмите, чтобы купить!"]
+        "ru": ["", "§e▶ Нажмите, чтобы купить!"],
+        "en": ["", "§e▶ Click to buy"],
+        "ua": ["", "§e▶ Натисныть, щоб вибрати"]
     },
     "PRODUCT_ITEM_CANNOT_BUY": {
-        "ru": ["", "§c▶ Недостаточно средств!"]
+        "ru": ["", "§c▶ Недостаточно средств!"],
+        "en": ["", "§c▶ Insufficient funds!"],
+        "ua": ["", "§c▶ Недостатньо коштів"]
     },
     "SETGROUP_HELP": {
         "ru": "§c§lWellCore §7:: §fИспользование - §b/setgroup <ник> <группа>",
-        "en": "§c§lWellCore §7:: §fUsage - §b/setgroup <name> <group>"
+        "en": "§c§lWellCore §7:: §fUsage - §b/setgroup <name> <group>",
+        "ua": "§c§lWellCore §7:: §fВикористання - §b/setgroup <name> <group>"
     },
     "KICK_HELP": {
-        "ru": "§c§lWellCore §7:: §fИспользование - §b/kick <ник> <причина>"
+        "ru": "§c§lWellCore §7:: §fИспользование - §b/kick <ник> <причина>",
+        "en": "§c§lWellCore §7:: §fUsing - §b/kick <nick> <reason>",
+        "ua": "§c§lWellCore §7:: §fВикористання - §b/kick <нік> <причина>"
     },
     "ADDMONEY_HELP": {
         "ru": "§c§lWellCore §7:: §fИспользование - §b/addmoney <ник> <coins/diamonds> <значение>",
