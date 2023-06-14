@@ -278,58 +278,68 @@
         " §fЯзык - §e%s",
         " §fВерсия - §b%s"],
         "en": [
-            "§b§lWellCore §8:: §fИнформация об игроке %s§f:", 
+            "§b§lWellCore §8:: §fPlayer info %s§f:", 
             "§7[AUTHSERVICE]:",
-            " §fИдентификатор - §e%s", 
+            " §fIdentifier - §e%s", 
             " §fIP - §e%s", 
-            " §fПоследний сервер - §c%s", 
-            " §fДата регистрации - §a%s", 
+            " §fLast server - §c%s", 
+            " §fRegistration Date - §a%s", 
             "§7[USERSERVICE]:",
-            " §fУровень - §d%s", 
-            " §fАлмазов - §b%s", 
-            " §fМонет - §6%s",
-            " §fГруппа - §7%s",
-            " §fЯзык - §e%s",
-            " §fВерсия - §b%s"],
+            " §fLevel - §d%s", 
+            " §fDiamonts - §b%s", 
+            " §fCoins - §6%s",
+            " §fGroup - §7%s",
+            " §fLanguage - §e%s",
+            " §fVersion - §b%s"],
         "ua": [
-            "§b§lWellCore §8:: §fИнформация об игроке %s§f:", 
+            "§b§lWellCore §8:: §fІнформація про гравця %s§f:", 
             "§7[AUTHSERVICE]:",
-            " §fИдентификатор - §e%s", 
+            " §fІдентифікатор - §e%s", 
             " §fIP - §e%s", 
-            " §fПоследний сервер - §c%s", 
-            " §fДата регистрации - §a%s", 
+            " §fОстанній сервер - §c%s", 
+            " §fДата реєстрації - §a%s", 
             "§7[USERSERVICE]:",
-            " §fУровень - §d%s", 
+            " §fРівень - §d%s", 
             " §fАлмазов - §b%s", 
             " §fМонет - §6%s",
-            " §fГруппа - §7%s",
-            " §fЯзык - §e%s",
-            " §fВерсия - §b%s"]
+            " §fГрупа - §7%s",
+            " §fМова - §e%s",
+            " §fВерсія - §b%s"]
     },
     "PUNISH_HELP": {
         "ru": "§e§lWellCore §8:: §fИспользование - §e/%s <ник> <время/-a> <причина>",
-        "en": "§e§lWellCore §8:: §fUsage - §e/%s <name> <duration/-a> <reason>"
+        "en": "§e§lWellCore §8:: §fUsing - §e/%s <name> <duration/-a> <reason>",
+        "ua": "§e§lWellCore §8:: §fВикористання - §e/%s <нік> <час/-a> <причина>"
     },
     "FUCK_HELP": {
-        "ru": "§c§lWellCore §8:: §fИспользование - §e/fuck <ник>"
+        "ru": "§c§lWellCore §8:: §fИспользование - §e/fuck <ник>",
+        "en": "§c§lWellCore §8:: §fUsing - §e/fuck <nick>",
+        "ua": "§c§lWellCore §8:: §fВикористання - §e/fuck <нік>"
     },
     "UNPUNISH_HELP": {
         "ru": "§e§lWellCore §8:: §fИспользование - §e/un%s <ник>",
-        "en": "§e§lWellCore §8:: §fUsage - §e/un%s <name>"
+        "en": "§e§lWellCore §8:: §fUsing - §e/un%s <name>",
+        "ua": "§e§lWellCore §8:: §fВикористання - §e/un%s <name>"
     },
     "ALREADY_PUNISHED": {
         "ru": "§c§lWellCore §8:: §fОшибка, у игрока уже есть наказание с типом §b%s§f.",
-        "en": "§c§lWellCore §8:: §fPlayer already has §b%s§f punish."
+        "en": "§c§lWellCore §8:: §fPlayer already has §b%s§f punish.",
+        "ua": "§c§lWellCore §8:: §fПомилка, у гравця вже є покаранння с типом §b%s§f."
     },
     "STAFF_PUNISH_NOTIFY": {
-        "ru": "§e§lМодерация §8:: §f%s §fвыдал наказание §b%s §fигроку %s §fистекаюшее через §c%s§f по причине: §7%s."
+        "ru": "§e§lМодерация §8:: §f%s §fвыдал наказание §b%s §fигроку %s §fистекаюшее через §c%s§f по причине: §7%s.",
+        "en": "§e§lModeration §8:: §f%s §fissued a penalty §b%s §fto the player %s §fflowing through §c%s§f on account of: §7%s.",
+        "ua": "§e§lМодерація §8:: §f%s §fвидав покарання §b%s §fгравцю %s §fщо спливає через §c%s§f через: §7%s."
     },
     "STAFF_UNPUNISH_NOTIFY": {
-        "ru": "§e§lМодерация §8:: §f%s §fснял наказание §b%s§f с игрока %s"
+        "ru": "§e§lМодерация §8:: §f%s §fснял наказание §b%s§f с игрока %s",
+        "en": "§e§lModeration §8:: §f%s §fdropped the punishment §b%s§f from a player %s",
+        "ua": "§e§lМодерація §8:: §f%s §fзняв покарання §b%s§f з гравця %s"
     },
     "DONT_HAVE_PUNISH": {
         "ru": "§c§lWellCore §8:: §fОшибка, у игрока уже нету наказания с типом §b%s§f.",
-        "en": "§c§lWellCore §8:: §fPlayer dont have §b%s§f punish."
+        "en": "§c§lWellCore §8:: §fPlayer dont have §b%s§f punish.",
+        "ua": "§c§lWellCore §8:: §fПомилка, у гравця вже немає покарання з типом §b%s§f."
     },
     "MUTED_MESSAGE": {
         "ru": [
@@ -344,39 +354,87 @@
         " §7Подать апелляцию вы можете на форуме:",
         " §d§lforum.wellcore.fun",
         "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
-        ""]
+        ""],
+        "en": [
+            "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+            " §c§lYOU WERE MUTED!",
+            " §8",
+            " §7Muting: §e%s", 
+            " §7Expires after: §a%s",
+            " §9",
+            " §7Reason: §f%s",
+            " §1",
+            " §7You can file an appeal in the forum:",
+            " §d§lforum.wellcore.fun",
+            "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+            ""],
+        "ua": [
+            "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+            " §c§lВАС ЗАМУТИЛИ!",
+            " §8",
+            " §7Замутив: §e%s", 
+            " §7Минає через: §a%s",
+            " §9",
+            " §7Причина: §f%s",
+            " §1",
+            " §7Подати апеляцію ви можете на форумі:",
+            " §d§lforum.wellcore.fun",
+            "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+            ""]
     },
     "GAMESELECTOR_ITEM_NAME": {
-        "ru": "§bВыбор режима"
+        "ru": "§bВыбор режима",
+        "en": "§bSelecting Mode",
+        "ua": "§bВибір режиму"
     },
     "GAMESELECTOR_ITEM_LORE": {
-        "ru": "§7что-то"
+        "ru": "§7что-то",
+        "en": "§7something",
+        "ua": "§7щось"
     },
     "MENU_PROFILE_NAME": {
-        "ru": "§bПрофиль"
+        "ru": "§bПрофиль",
+        "en": "§bProfile",
+        "ua": "§bПрофіль"
     },
     "MENU_PROFILE_LORE": {
-        "ru": "§7что-то"
+        "ru": "§7что-то",
+        "en": "§7something",
+        "ua": "§bВибір режиму"
     },
     "LOBBY_SELECTOR_NAME": {
-        "ru": "§dВыбор лобби"
+        "ru": "§dВыбор лобби",
+        "en": "§dChoice of lobby",
+        "ua": "§dВибір лобі"
     },
     "LOBBY_SELECTOR_LORE": {
-        "ru": "§7что-то"
+        "ru": "§7что-то",
+        "en": "§7something",
+        "ua": "§bВибір режиму"
     },
     "PREFIX_DEATH_NAME": {
-        "ru": "§aСообщения о смерти"
+        "ru": "§aСообщения о смерти",
+        "en": "§aMessage of dead",
+        "ua": "§aПовідомлення про смерть"
     },
     "PREFIX_DEATH_LORE": {
-        "ru": ["§a§lУникальная фишка нашего сервера", "", "§7Сделай выбор в пользу новых сообщений", "§7Со смерти и умирай красиво :D", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["§a§lУникальная фишка нашего сервера", "", "§7Сделай выбор в пользу новых сообщений", "§7о смерти и умирай красиво :D", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["§a§lA unique feature of our server", "", "§7Opt for new messages", "§7of death and die beautifully :D", "", "§e▶ Click to open menu!"],
+        "ua": ["§a§lУнікальна фішка нашого сервера", "", "§7Зроби вибір на користь нових повідомлень", "§7про смерть і вмирай красиво :D", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "EMPTY_LIST": {
-        "ru": "§cСписок пуст :c"
+        "ru": "§cСписок пуст :(",
+        "en": "§cСписок порожній :(",
+        "ua": "§cThe list is empty :("
     },
     "PREFIX_QUITER_NAME": {
-        "ru": "§dСообщения о выходе"
+        "ru": "§dСообщения о выходе",
+        "en": "§dExit messages",
+        "ua": "§dПовідомлення про вихід"
     },
     "PREFIX_QUITER_LORE": {
-        "ru": ["§7Хочешь чтобы игроки знали о твоём выходе?", "", "§7У нас есть множество прикольных вариантов!", "", "§7Выбери свой и пусть другие знают, кого потеряли", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["§7Хочешь чтобы игроки знали о твоём выходе?", "", "§7У нас есть множество прикольных вариантов!", "", "§7Выбери свой и пусть другие знают, кого потеряли", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["§7Do you want players to know about your release?", "", "§7We have plenty of cool options!", "", "§7Choose yours and let others know who they've lost", "", "§e▶ Click to open the menu!"],
+        "ua": ["§7Хочеш, щоб гравці знали про твій вихід?", "", "§7У нас є багато класних варіантів!", "", "§7Вибери свій і дай іншим знати, кого вони втратили", "", "§e▶ Натисни, щоб відкрити меню!"]
     }
 }
