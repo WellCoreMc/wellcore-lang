@@ -1,63 +1,109 @@
 {
     "CLEARLAG": {
-        "ru": "§2§lWellCore §8:: §fБыло удалено §a%s §fпредметов с земли."
+        "ru": "§2§lWellCore §8:: §fБыло удалено §a%s §fпредметов с земли.",
+        "en": "§2§lWellCore §8:: §f%s items have been removed from the ground.",
+        "ua": "§2§lWellCore §8:: §fБуло видалено §a%s §fпредметів з землі."
     },
     "CLEARLAG_TIMER": {
-        "ru": "§e§lWellCore §8:: §fОчистка предметов через §a%s"
+        "ru": "§e§lWellCore §8:: §fОчистка предметов через §a%s",
+        "en": "§e§lWellCore §8:: §fItems will be cleared in §a%s",
+        "ua": "§e§lWellCore §8:: §fОчищення предметів через §a%s"
     },
     "CLEAR_SUCCESS_RESET": {
-        "ru": "§b§lWellCore §8:: §fВаш инвентарь был успешно очищен."
+        "ru": "§b§lWellCore §8:: §fВаш инвентарь был успешно очищен.",
+        "en": "§b§lWellCore §8:: §fYour inventory has been successfully cleared.",
+        "ua": "§e§lWellCore §8:: §fОчищення предметів через §a%s"
     },
     "SUCCESSFULLY_DAY": {
-        "ru": "§b§lWellCore §8:: §fВы успешно изменили время на §aдень§f!"
+        "ru": "§b§lWellCore §8:: §fВы успешно изменили время на §aдень§f!",
+        "en": "§b§lWellCore §8:: §fYou have successfully changed the time to §aday§f!",
+        "ua": "§b§lWellCore §8:: §fВи успішно змінили час на §aдень§f!"
     },
     "EXT_MESSAGE": {
-        "ru": "§b§lWellCore §8:: §fВы успешно потушили себя!"
+        "ru": "§b§lWellCore §8:: §fВы успешно потушили себя!",
+        "en": "§b§lWellCore §8:: §fYou have successfully extinguished yourself!",
+        "ua": "§b§lWellCore §8:: §fВи успішно загасили себе!"
     },
     "FEED_MESSAGE": {
-        "ru": "§b§lWellCore §8:: §fПопробуй муа муа.. попробуй джага-джага.. Вот ты и сыт!"
+        "ru": "§b§lWellCore §8:: §fПопробуй муа муа.. попробуй джага-джага.. Вот ты и сыт!",
+        "en": "§b§lWellCore §8:: §fTry mua mua.. try jaga-jaga.. There you go, you're fed!",
+        "ua": "§b§lWellCore §8:: §fСпробуй муа муа.. спробуй джага-джага.. Ось ти і наситився!"
     },
     "TOGGLE_FLYING_TRUE": {
-        "ru": "§b§lWellCore §8:: §fВы §aвключили§f режим полёта!"
+        "ru": "§b§lWellCore §8:: §fВы §aвключили§f режим полёта!",
+        "en": "§b§lWellCore §8:: §fYou have §aenabled§f flying mode!",
+        "ua": "§b§lWellCore §8:: §fВи §aувімкнули§f режим польоту!"
     },
     "TOGGLE_FLYING_FALSE": {
-        "ru": "§b§lWellCore §8:: §fВы §cвыключили§f режим полёта!"
+        "ru": "§b§lWellCore §8:: §fВы §cвыключили§f режим полёта!",
+        "en": "§b§lWellCore §8:: §fYou have §cdisabled§f flying mode!",
+        "ua": "§b§lWellCore §8:: §fВи §cвимкнули§f режим польоту!"
     },
     "GAMEMODE_USAGE": {
-        "ru": "§c§lWellCore §8:: §fИспользование - §e/gamemode <номер режима>"
+        "ru": "§c§lWellCore §8:: §fИспользование - §e/gamemode <номер режима>",
+        "en": "§c§lWellCore §8:: §fUsage - §e/gamemode <mode number>",
+        "ua": "§c§lWellCore §8:: §fВикористання - §e/gamemode <номер режиму>"
     },
     "GAMEMODE_INVALID": {
-        "ru": "§c§lWellCore §8:: §fОшибка, неверно указан номер режима. §7(0, 1, 2, 3)"
+        "ru": "§c§lWellCore §8:: §fОшибка, неверно указан номер режима. §7(0, 1, 2, 3)",
+        "en": "§c§lWellCore §8:: §fError, invalid mode number specified. §7(0, 1, 2, 3)",
+        "ua": "§c§lWellCore §8:: §fПомилка, невірно вказаний номер режиму. §7(0, 1, 2, 3)"
     },
     "SUCCESS_GAMEMODE": {
-        "ru": "§b§lWellCore §8:: §fВаш игровой режим был изменен на §a%s"
+        "ru": "§b§lWellCore §8:: §fВаш игровой режим был изменен на §a%s",
+        "en": "§b§lWellCore §8:: §fYour game mode has been changed to §a%s",
+        "ua": "§b§lWellCore §8:: §fВаш ігровий режим був змінений на §a%s"
     },
     "TOGGLE_GOD_TRUE": {
-        "ru": "§b§lWellCore §8:: §fВы §aвключили§f режим бога!"
+        "ru": "§b§lWellCore §8:: §fВы §aвключили§f режим бога!",
+        "en": "§b§lWellCore §8:: §fYou have §aenabled§f god mode!",
+        "ua": "§b§lWellCore §8:: §fВи §aувімкнули§f режим бога!"
     },
     "TOGGLE_GOD_FALSE": {
-        "ru": "§b§lWellCore §8:: §fВы §cвыключили§f режим бога!"
+        "ru": "§b§lWellCore §8:: §fВы §cвыключили§f режим бога!",
+        "en": "§b§lWellCore §8:: §fYou have §cdisabled§f god mode!",
+        "ua": "§b§lWellCore §8:: §fВи §cвимкнули§f режим бога!"
     },
     "HEAL_MESSAGE": {
-        "ru": "§b§lWellCore §8:: §fВы были вылечены!"
+        "ru": "§b§lWellCore §8:: §fВы были вылечены!",
+        "en": "§b§lWellCore §8:: §fYou have been healed!",
+        "ua": "§b§lWellCore §8:: §fВи були вилікувані!"
     },
     "BACK_GUI_TITLE": {
-        "ru": "Прошлые телепортации"
+        "ru": "Прошлые телепортации",
+        "en": "Previous Teleportations",
+        "ua": "Минулі телепортації"
     },
     "BACK_INFO_LORE": {
         "ru": [
         "§7Тут храняться все ваши телепортации", 
         "§7за текущую сессию.",
         "",
-        "§7Сохранено телепортаций: §f%s"]
+        "§7Сохранено телепортаций: §f%s"],
+        "en": [
+        "§7All your teleportations are stored here",
+        "§7for the current session.",
+        "",
+        "§7Teleportations saved: §f%s"],
+        "ua": [
+        "§7Тут зберігаються всі ваші телепортації",
+        "§7за поточну сесію.",
+        "",
+        "§7Збережено телепортацій: §f%s"]
     },
     "LATEST_TELEPORT_NAME": {
-        "ru": "§eПоследняя локация"
+        "ru": "§eПоследняя локация",
+        "en": "§eLatest Location",
+        "ua": "§eОстання локація"
     },
     "BACK_TELEPORT_NAME": {
-        "ru": "§eТелепорт #%s"
+        "ru": "§eТелепорт #%s",
+        "en": "§eTeleport #%s",
+        "ua": "§eТелепортація #%s"
     },
     "BACK_TELEPORT_LORE": {
-        "ru": ["", "§7Дата: §b%s назад", "§7Откуда: §e%s", "§7Куда: §c%s", "","§c§lВНИМАНИЕ!§c Вы будете телепортированы", "§bна изначальную локацию. (Откуда)", "", "§e▶ Нажмите, чтобы телепортироваться."]
+        "ru": ["", "§7Дата: §b%s назад", "§7Откуда: §e%s", "§7Куда: §c%s", "","§c§lВНИМАНИЕ!§c Вы будете телепортированы", "§bна изначальную локацию. (Откуда)", "", "§e▶ Нажмите, чтобы телепортироваться."],
+        "en": ["", "§7Date: §b%s ago", "§7From: §e%s", "§7To: §c%s", "", "§c§lWARNING!§c You will be teleported", "§bto the original location. (From)", "", "§e▶ Click to teleport."],
+        "ua": ["", "§7Дата: §b%s тому", "§7Звідки: §e%s", "§7Куди: §c%s", "","§c§lУВАГА!§c Ви будете телепортовані", "§bна початкову локацію. (Звідки)", "", "§e▶ Натисніть, щоб телепортуватися."]
     }
 }
