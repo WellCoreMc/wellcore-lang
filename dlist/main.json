@@ -113,25 +113,33 @@
     },
     "ADDMONEY_HELP": {
         "ru": "§c§lWellCore §7:: §fИспользование - §b/addmoney <ник> <coins/diamonds> <значение>",
-        "en": "§c§lWellCore §7:: §fUsage - §b/setgroup <name> <coins/diamonds> <value>"
+        "en": "§c§lWellCore §7:: §fUsage - §b/addmoney <nick> <coins/diamonds> <value>",
+        "ua": "§c§lWellCore §7:: §fВикористовуйте - §b/setgroup <нік> <coins/diamonds> <значення>"
     },
     "ADDMONEY_SUCCESSFUL": {
         "ru": "§a§lWellCore §7:: §fИзменено количество валюты §e%s §fу игрока %s§f на §a+ %s",
-        "en": "§a§lWellCore §7:: §fSuccessful changed %s§f currency value in §f's wallet with §a+ %s"
+        "en": "§a§lWellCore §7:: §fChanged amount of currency §e%s §fу player %s§f on §a+ %s",
+        "ua": "§a§lWellCore §7:: §fЗмінено кількість валюти §e%s §fу гравця %s§f на §a+ %s"
     },
     "PLAYER_NOT_FOUND": {
         "ru": "§c§lWellCore §7:: §fУказанный игрок не найден!",
-        "en": "§c§lWellCore §7:: §fPlayer not Found!"
+        "en": "§c§lWellCore §7:: §fPlayer not Found!",
+        "ua": "§c§lWellCore §7:: §fВказаний гравець не знайдений"
     },
     "SUFFIXS_TITLE": {
-        "ru": "Титулы"
+        "ru": "Титулы",
+        "en": "Titles",
+        "ua": "Титули"
     },
     "PROFILE_TITLE": {
-        "ru": "Профиль"
+        "ru": "Профиль",
+        "en": "Profile",
+        "ua": "Профіль"
     },
     "SUCCESSFUL_CHANGED_GROUP": {
         "ru": "§a§lWellCore §7:: §fВы успешно изменили группу игрока %s§f на %s",
-        "en": "§a§lWellCore §7:: §fSuccessful changed %s§f's group to %s"
+        "en": "§a§lWellCore §7:: §fSuccessful changed %s§f's group to %s",
+        "ua": "§a§lWellCore §7:: §fВи успишно змінили группу гравця %s§f на %s"
     },
     "NEED_GROUP": {
         "ru": "§c§lWellCore §7:: §fДля этого необходима привилегия %s§f!",
@@ -139,12 +147,14 @@
         "ua": "§c§lWellCore §7:: §fДля цього потрібно мати статус %s§f!"
     },
     "REGISTER_USAGE": {
-        "ru": "§c§lWellCore §7:: §fИспользуйте - §b/register <пароль> <повтор пароля>",
-        "en": "§c§lWellCore §7:: §fUsage - §b/register <password> <repeat password>"
+        "ru": "§c§lWellCore §7:: §fИспользуйте - §b/register <§fпароль§b> <§fповтор пароля§b>",
+        "en": "§c§lWellCore §7:: §fUsage - §b/register <§fпароль§b> <§fповтор пароля§b>",
+        "ua": "§c§lWellCore §7:: §fВикористайте - §b/register <§fпароль§b> <§fповтор пароля§b>"
     },
     "AUTH_CHAT": {
-        "ru": "§c§lWellCore §7:: §fЧат выключен на этом сервере :c",
-        "en": "§c§lWellCore §7:: §fChat is not allowed at this server!"
+        "ru": "§c§lWellCore §7:: §fЧат выключен на этом сервере :(",
+        "en": "§c§lWellCore §7:: §fChat is not allowed at this server :(",
+        "ua": "§c§lWellCore §7:: §fЧат вимкнений на цьому сервері :("
     },
     "LOGIN_USAGE": {
         "ru": "§c§lWellCore §7:: §fИспользуйте - §b/login <пароль>",
