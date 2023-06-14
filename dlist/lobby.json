@@ -1,7 +1,8 @@
 {
     "LOBBY_SELECTOR_TITLE": {
         "ru": "Выбор лобби",
-        "en": "Lobby selector"
+        "en": "Lobby selector",
+        "ua": "Вибір лобі"
     },
     "LOBBY_SELECTOR_ITEM_LORE_OTHER": {
         "ru": [
@@ -11,10 +12,15 @@
         "en": [
             "§7Online: §9%s",
             "", 
-            "§b▶ Click to connect!"]
+            "§b▶ Click to connect!"],
+        "ua": [
+            "§7Онлайн: §9%s",
+            "", 
+            "§b▶ Натисніть, щоб приєднатись!"]
     },
     "LOBBY_SELECTOR_ITEM_LORE_THIS": {
         "ru": ["", "§7Вы находитесь здесь"],
-        "en": ["", "§7You are here"]
+        "en": ["", "§7You are here"],
+        "ua": ["", "§7Ви перебуваєте тут"]
     }
 }
