@@ -158,44 +158,63 @@
     },
     "LOGIN_USAGE": {
         "ru": "§c§lWellCore §7:: §fИспользуйте - §b/login <пароль>",
-        "en": "§c§lWellCore §7:: §fUsage - §b/login <password>"
+        "en": "§c§lWellCore §7:: §fUsage - §b/login <password>",
+        "ua": "§c§lWellCore §7:: §fВикористайте - §b/login <password>"
     },
     "AUTH_ERROR": {
-        "ru": "§c§lWellCore §7:: §fВы уже авторизованы, но вас не отправило в§b HUB§f. Сейчас исправим.."
+        "ru": "§c§lWellCore §7:: §fВы уже авторизованы, но вас не отправило в§b HUB§f. Сейчас исправим...",
+        "en": "§c§lWellCore §7:: §fYou are already logged in, but it didn't send you to§b HUB§f. We'll fix it now...",
+        "ua": "§c§lWellCore §7:: §fВи вже авторизовані, но вас не відправило в§b HUB§f. Зараз виправимо..."
     },
     "DONATE_CHAT": {
         "ru": "§6Чат донатеров §8| ",
-        "en": "§6Donator's chat §8| "
+        "en": "§6Donator's chat §8| ",
+        "ua": "§6Чат донатерів §8|"
     },
     "STAFF_CHAT": {
         "ru": "§eЧат персонала §8| ",
-        "en": "§eStaff chat §8| "
+        "en": "§eStaff chat §8| ",
+        "ua": "§eЧат персоналу §8| "
     },
     "CHAT_USAGE": {
         "ru": "§c§lWellCore §7:: §fИспользуйте - §b/%s <сообщение>",
-        "en": "§c§lWellCore §7:: §fUsage - §b/%s <message>"
+        "en": "§c§lWellCore §7:: §fUsage - §b/%s <message>",
+        "ua": "§c§lWellCore §7:: §fВикористовуйте - §b/%s <повідомлення>"
     },
     "GET_LOGS": {
       "ru": "§b§lWellCore §7:: §fСсылка на логи - §b%s",
-      "en": "§b§lWellCore §7:: §fLogs - §b%s"
+      "en": "§b§lWellCore §7:: §fLogs - §b%s",
+      "ua": "§b§lWellCore §7:: §fПосилання на логи - §b%s"
     },
     "JOINER_PROFILE_NAME": {
-        "ru": "§bСообщения о входе"
+        "ru": "§bСообщения о входе",
+        "en": "§bLogin message",
+        "ua": "§bПовідомлення про вхід"
     },
     "JOINER_PROFILE_LORE": {
-        "ru": ["", "§7Вечер в хату!", "§7Уведоми всех о своём приходе!", "", "§7Выбери подходящее сообщение",  "§7и пусть теперь все знают о тебе", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["", "§7Вечер в хату!", "§7Уведоми всех о своём приходе!", "", "§7Выбери подходящее сообщение",  "§7и пусть теперь все знают о тебе", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["", "§7Evening in the home!", "§7Let everyone know you're coming!", "", "§7Choose the right message",  "§7And now let everyone know about you", "", "§e▶ Click to open the menu!"],
+        "ua": ["", "§7Вечір в хату!", "§7Повідом всіх про свій прихід!", "", "§7Вибери підходяче повідомлення",  "§7та нехай всі знають про тебе", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "LANG_PROFILE_NAME": {
-        "ru": "§bСмена языка"
+        "ru": "§bСмена языка",
+        "en": "§bChange language",
+        "ua": "§bЗміна мови"
     },
     "LANG_PROFILE_LORE": {
-        "ru": ["", "§7Нот андерстенд рашен?", "§7Тогда смени язык!", "", "§7Список доступных языков:",  "§a໒ §fРусский (§a100§f)", "§a໒ §fEnglish (§a65§f)", "§a໒ §fУкраїнська (§a50§f)", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["", "§7Нот андерстенд зис лангуаге?", "§7Тогда смени язык!", "", "§7Список доступных языков:",  "§a໒ §fРусский (§a100§f)", "§a໒ §fEnglish (§a65§f)", "§a໒ §fУкраїнська (§a50§f)", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["", "§7Don't understand this language?", "§7Then change your language!", "", "§7List of available languages:",  "§a໒ §fРусский (§a100§f)", "§a໒ §fEnglish (§a65§f)", "§a໒ §fУкраїнська (§a50§f)", "", "§e▶ Click to open the menu!"],
+        "ua": ["", "§7Нот андерстенд зис лангуагє?", "§7Тоді зміни мову!", "", "§7Список доступних мов:",  "§a໒ §fРусский (§a100§f)", "§a໒ §fEnglish (§a65§f)", "§a໒ §fУкраїнська (§a50§f)", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "FRIENDS_PROFILE_NAME": {
-        "ru": "§bСписок друзей"
+        "ru": "§bСписок друзей",
+        "en": "§bFriend list",
+        "ua": "§bСписок друзів"
     },
     "FRIENDS_PROFILE_LORE": {
-        "ru": ["", "§7С друзьями веселей!", "§7Посмотри информацию о своих", "§7друзьях", "§7Доступна информация об их онлайне и текущем сервере!", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["", "§7С друзьями веселей!", "§7Посмотри информацию о своих", "§7друзьях", "§7Доступна информация об их онлайне и текущем сервере!", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["", "§7With friends is more fun!", "§7Look at the information about your", "§7friends", "§7Information about their online and current server is available!", "", "§e▶ Click to open the menu!"],
+        "ua": ["", "§7З друзями веселіше!", "§7Подивись інформацію про своїх", "§7друзів", "§7Доступна інформація про їх онлайн на данному сервері!", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "PREFIX_PROFILE_NAME": {
         "ru": "§bСмена префикса"
