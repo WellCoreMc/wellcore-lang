@@ -13,6 +13,12 @@
     "BEST_PLAYER_GUI_TITLE": {
         "ru": "Перекупить статус лучшего игрока"
     },
+    "BEST_PLAYER_NPC_HOLO_TITLE": {
+        "ru": "§bЛучший игрок сервера"
+    },
+    "BEST_PLAYER_NPC_HOLO_CLICK": {
+        "ru": "§7Нажмите, чтобы перекупить"
+    },
     "DONT_HAVE_BEST_PLAYER_NAME": {
         "ru": "§cЛучшего игрока ещё нету :c"
     },
