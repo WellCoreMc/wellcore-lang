@@ -4,6 +4,51 @@
         "en": "Lobby selector",
         "ua": "Вибір лобі"
     },
+    "LOBBY_TITLE_HEADER": {
+        "ru": "§b§lWellCore"
+    },
+    "LOBBY_TITLE_FOOTER": {
+        "ru": "§7www.wellcore.fun"
+    },
+    "BEST_PLAYER_GUI_TITLE": {
+        "ru": "Перекупить статус лучшего игрока"
+    },
+    "DONT_HAVE_BEST_PLAYER_NAME": {
+        "ru": "§cЛучшего игрока ещё нету :c"
+    },
+    "BEST_PLAYER_NAME": {
+        "ru": "§bЛучший игрок - %s"
+    },
+    "BEST_PLAYER_BUY_NAME": {
+        "ru": "§bПерекупить на %s"
+    },
+    "BEST_PLAYER_BUY_LORE": {
+        "ru": [
+            "",
+            "§7Цена: §b%s"]
+    },
+    "BEST_PLAYER_LORE": {
+        "ru": [
+            "§7Этот классный игрок поддержал сервер",
+            "§7и получил такой статус :)",
+            "",
+            "§8[Информация о статусе]:",
+            " §7Куплен: §f%s назад",
+            " §7Истекает через: §a%s",
+            " §7Игрок заплатил: §b%s",
+            ""]
+    },
+    "DONT_HAVE_BEST_PLAYER_LORE": {
+        "ru": [
+            "§7Возможно, статус лучшего игрока",
+            "§7ждёт именно вас.."]
+    },
+    "CANT_BECOME_BESTPLAYER_AGAIN": {
+        "ru": "§c§lWellCore §7:: §fВы уже являетесь лучшим игроком. Куда дальше то?)"
+    },
+    "SUCCESS_BUY_BESTPLAYER_PLACE": {
+        "ru": "§b§lWellCore §7:: §fNO WAY! Вы правда купили статус лучшего игрока сервера! Подождите пару секунд и вы сможете увидеть себя в NPC."
+    },
     "LOBBY_SELECTOR_ITEM_LORE_OTHER": {
         "ru": [
             "§7Онлайн: §9%s",
