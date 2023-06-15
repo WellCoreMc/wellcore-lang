@@ -15,6 +15,38 @@
           "§fВы в регионе: §c%s",
           "",
           "§bwww.wellcore.fun"
+      ],
+      "en": [
+        "",
+        "§fOnline mode: §a%s",
+        "",
+        "§7[Currency]:",
+        " §fCoins: §e%s",
+        " §fDiamonds: §b%s",
+        "",
+        "§7[Statistics]:",
+        " §fDeaths: §c%s",
+        " §fKills: §e%s",
+        "",
+        "§fYou are in region: §c%s",
+        "",
+        "§bwww.wellcore.fun"
+        ],
+        "ua": [
+          "",
+          "§fОнлайн режиму: §a%s",
+          "",
+          "§7[Валюта]:",
+          "  §fМонети: §e%s",
+          "  §fДіаманти: §b%s",
+          "",
+          "§7[Статистика]:",
+          "  §fСмертей: §c%s",
+          "  §fВбивств: §e%s",
+          "",
+          "§fВи у регіоні: §c%s",
+          "",
+          "§bwww.well§ecore.fun"
       ]
     }
 }

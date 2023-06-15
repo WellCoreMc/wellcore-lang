@@ -161,72 +161,103 @@
     },
     "LOGIN_USAGE": {
         "ru": "§c§lWellCore §7:: §fИспользуйте - §b/login <пароль>",
-        "en": "§c§lWellCore §7:: §fUsage - §b/login <password>"
+        "en": "§c§lWellCore §7:: §fUsage - §b/login <password>",
+        "ua": "§c§lWellCore §7:: §fВикористайте - §b/login <password>"
     },
     "AUTH_ERROR": {
-        "ru": "§c§lWellCore §7:: §fВы уже авторизованы, но вас не отправило в§b HUB§f. Сейчас исправим.."
+        "ru": "§c§lWellCore §7:: §fВы уже авторизованы, но вас не отправило в§b HUB§f. Сейчас исправим...",
+        "en": "§c§lWellCore §7:: §fYou are already logged in, but it didn't send you to§b HUB§f. We'll fix it now...",
+        "ua": "§c§lWellCore §7:: §fВи вже авторизовані, но вас не відправило в§b HUB§f. Зараз виправимо..."
     },
     "DONATE_CHAT": {
         "ru": "§6Чат донатеров §8| ",
-        "en": "§6Donator's chat §8| "
+        "en": "§6Donator's chat §8| ",
+        "ua": "§6Чат донатерів §8|"
     },
     "STAFF_CHAT": {
         "ru": "§eЧат персонала §8| ",
-        "en": "§eStaff chat §8| "
+        "en": "§eStaff chat §8| ",
+        "ua": "§eЧат персоналу §8| "
     },
     "CHAT_USAGE": {
         "ru": "§c§lWellCore §7:: §fИспользуйте - §b/%s <сообщение>",
-        "en": "§c§lWellCore §7:: §fUsage - §b/%s <message>"
+        "en": "§c§lWellCore §7:: §fUsage - §b/%s <message>",
+        "ua": "§c§lWellCore §7:: §fВикористовуйте - §b/%s <повідомлення>"
     },
     "GET_LOGS": {
       "ru": "§b§lWellCore §7:: §fСсылка на логи - §b%s",
-      "en": "§b§lWellCore §7:: §fLogs - §b%s"
+      "en": "§b§lWellCore §7:: §fLogs - §b%s",
+      "ua": "§b§lWellCore §7:: §fПосилання на логи - §b%s"
     },
     "JOINER_PROFILE_NAME": {
-        "ru": "§bСообщения о входе"
+        "ru": "§bСообщения о входе",
+        "en": "§bLogin message",
+        "ua": "§bПовідомлення про вхід"
     },
     "JOINER_PROFILE_LORE": {
-        "ru": ["", "§7Вечер в хату!", "§7Уведоми всех о своём приходе!", "", "§7Выбери подходящее сообщение",  "§7и пусть теперь все знают о тебе", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["", "§7Вечер в хату!", "§7Уведоми всех о своём приходе!", "", "§7Выбери подходящее сообщение",  "§7и пусть теперь все знают о тебе", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["", "§7Evening in the home!", "§7Let everyone know you're coming!", "", "§7Choose the right message",  "§7And now let everyone know about you", "", "§e▶ Click to open the menu!"],
+        "ua": ["", "§7Вечір в хату!", "§7Повідом всіх про свій прихід!", "", "§7Вибери підходяче повідомлення",  "§7та нехай всі знають про тебе", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "LANG_PROFILE_NAME": {
-        "ru": "§bСмена языка"
+        "ru": "§bСмена языка",
+        "en": "§bChange language",
+        "ua": "§bЗміна мови"
     },
     "LANG_PROFILE_LORE": {
-        "ru": ["", "§7Нот андерстенд рашен?", "§7Тогда смени язык!", "", "§7Список доступных языков:",  "§a໒ §fРусский (§a100§f)", "§a໒ §fEnglish (§a65§f)", "§a໒ §fУкраїнська (§a50§f)", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["", "§7Нот андерстенд зис лангуаге?", "§7Тогда смени язык!", "", "§7Список доступных языков:",  "§a໒ §fРусский (§a99§f)", "§a໒ §fEnglish (§a99§f)", "§a໒ §fУкраїнська (§a99§f)", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["", "§7Don't understand this language?", "§7Then change your language!", "", "§7List of available languages:",  "§a໒ §fРусский (§a99§f)", "§a໒ §fEnglish (§a99§f)", "§a໒ §fУкраїнська (§a99§f)", "", "§e▶ Click to open the menu!"],
+        "ua": ["", "§7Чому не державною?", "§7Тоді зміни мову!", "", "§7Список доступних мов:",  "§a໒ §fРусский (§a99§f)", "§a໒ §fEnglish (§a99§f)", "§a໒ §fУкраїнська (§a99§f)", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "FRIENDS_PROFILE_NAME": {
-        "ru": "§bСписок друзей"
+        "ru": "§bСписок друзей",
+        "en": "§bFriend list",
+        "ua": "§bСписок друзів"
     },
     "FRIENDS_PROFILE_LORE": {
-        "ru": ["", "§7С друзьями веселей!", "§7Посмотри информацию о своих", "§7друзьях", "§7Доступна информация об их онлайне и текущем сервере!", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["", "§7С друзьями веселей!", "§7Посмотри информацию о своих", "§7друзьях", "§7Доступна информация об их онлайне и текущем сервере!", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["", "§7With friends is more fun!", "§7Look at the information about your", "§7friends", "§7Information about their online and current server is available!", "", "§e▶ Click to open the menu!"],
+        "ua": ["", "§7З друзями веселіше!", "§7Подивись інформацію про своїх", "§7друзів", "§7Доступна інформація про їх онлайн на данному сервері!", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "PREFIX_PROFILE_NAME": {
-        "ru": "§bСмена префикса"
+        "ru": "§bСмена префикса",
+        "en": "§bChange prefix",
+        "ua": "§bЗміна префіксу"
     },
     "PREFIX_PROFILE_LORE": {
-        "ru": ["", "§7Хочешь стать радужным?", "§7Со стильными префиксами сделать это", "§7будет намного проще!", "", "§7Доступно от привилегии §7§lENDER+", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["", "§7Хочешь стать радужным?", "§7Со стильными префиксами сделать это", "§7будет намного проще!", "", "§7Доступно от привилегии §7§lENDER+", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["", "§7Wanna be rainbow?", "§7With styles prefixes do it", "§7more easy!", "", "§7available from §7§lENDER+", "", "§e▶ Click to open menu!"],
+        "ua": ["", "§7Хочеш стати радужним?", "§7Зі стильними префіксами зробити це", "§7буде значно простіше!", "", "§7Доступно з привілегії §7§lENDER+", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "SUFFIX_PROFILE_NAME": {
-        "ru": "§bТитулы"
+        "ru": "§bТитулы",
+        "en": "§bTitles",
+        "ua": "§bТитули"
     },
     "SUFFIX_PROFILE_LORE": {
-        "ru": ["", "§7Стань круче и выделись", "§7с помощью новых §b§lТИТУЛОВ", "§7Титулы составлены из любимых вами персонажей", "§7которые точно вам понравятся :)", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["", "§7Стань круче и выделись", "§7с помощью новых §b§lТитулов", "§7Титулы составлены из любимых вами персонажей", "§7которые точно вам понравятся :)", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["", "§7Be cooler and highlight", "§7with new §b§lTitles", "§7Titles made up of characters you love", "§7that you're sure to love :)", "", "§e▶ Click to open the menu!"],
+        "ua": ["", "§7Стань крутіше та виділись", "§7з допомогою нових §b§lТитулів", "§7Титули складено з улюблених вами персонажів", "§7котрі точно вам сподобаються :)", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "SKIN_USAGE": {
         "ru": "§c§lWellCore §8:: §fИспользование - §e/skin <ник скина>",
-        "en": "§c§lWellCore §8:: §fUsage - §e/skin <skin name>"
+        "en": "§c§lWellCore §8:: §fUsage - §e/skin <skin nick>",
+        "ua": "§c§lWellCore §8:: §fВикористайте - §e/skin <нік скіну>"
     },
     "SKIN_NOT_FOUND": {
-        "ru": "§c§lWellCore §8:: §fНе найден лицензионный аккаунт с этим именем.",
-        "en": "§c§lWellCore §8:: §fLicensed account with this name not found!"
+        "ru": "§c§lWellCore §8:: §fНе найден лицензионный аккаунт с этим именем!",
+        "en": "§c§lWellCore §8:: §fLicensed account with this name not found!",
+        "ua": "§c§lWellCore §8:: §fНе знайдено ліцензійного акаунта з цим ім'ям!"
     },
     "SUCCESSFUL_CHANGED_SKIN": {
-        "ru": "§b§lWellCore §8:: §fСкин успешно изменен! Вам нужно перезайти.",
-        "en": "§b§lWellCore §8:: §fSkin has been successfully changed! Please rejoin."
+        "ru": "§b§lWellCore §8:: §fСкин успешно изменен! Для применения перезайдите на сервер.",
+        "en": "§b§lWellCore §8:: §fSkin has been successfully changed! To apply, log on to the server again.",
+        "ua": "§b§lWellCore §8:: §fСкін успішно змінений! Для застосування перезайдіть на сервер"
     },
     "WHOIS_USAGE": {
         "ru": "§c§lWellCore §8:: §fИспользование - §e/whois <ник>",
-        "en": "§c§lWellCore §8:: §fUsage - §e/whois <name>"
+        "en": "§c§lWellCore §8:: §fUsage - §e/whois <name>",
+        "ua": "§c§lWellCore §8:: §fВикористайте - §e/whois <нік>"
     },
     "SOME_ERROR": {
         "ru": "§c§lWellCore §8:: §fПри исполнении команды возникла проблема.. Благо мы юзаем §b@SneakyThrows§f и не пришлось париться. §7(MESSAGE: %s)"
@@ -245,32 +276,70 @@
         " §fМонет - §6%s",
         " §fГруппа - §7%s",
         " §fЯзык - §e%s",
-        " §fВерсия - §b%s"]
+        " §fВерсия - §b%s"],
+        "en": [
+            "§b§lWellCore §8:: §fPlayer info %s§f:", 
+            "§7[AUTHSERVICE]:",
+            " §fIdentifier - §e%s", 
+            " §fIP - §e%s", 
+            " §fLast server - §c%s", 
+            " §fRegistration Date - §a%s", 
+            "§7[USERSERVICE]:",
+            " §fLevel - §d%s", 
+            " §fDiamonts - §b%s", 
+            " §fCoins - §6%s",
+            " §fGroup - §7%s",
+            " §fLanguage - §e%s",
+            " §fVersion - §b%s"],
+        "ua": [
+            "§b§lWellCore §8:: §fІнформація про гравця %s§f:", 
+            "§7[AUTHSERVICE]:",
+            " §fІдентифікатор - §e%s", 
+            " §fIP - §e%s", 
+            " §fОстанній сервер - §c%s", 
+            " §fДата реєстрації - §a%s", 
+            "§7[USERSERVICE]:",
+            " §fРівень - §d%s", 
+            " §fАлмазов - §b%s", 
+            " §fМонет - §6%s",
+            " §fГрупа - §7%s",
+            " §fМова - §e%s",
+            " §fВерсія - §b%s"]
     },
     "PUNISH_HELP": {
         "ru": "§e§lWellCore §8:: §fИспользование - §e/%s <ник> <время/-a> <причина>",
-        "en": "§e§lWellCore §8:: §fUsage - §e/%s <name> <duration/-a> <reason>"
+        "en": "§e§lWellCore §8:: §fUsing - §e/%s <name> <duration/-a> <reason>",
+        "ua": "§e§lWellCore §8:: §fВикористання - §e/%s <нік> <час/-a> <причина>"
     },
     "FUCK_HELP": {
-        "ru": "§c§lWellCore §8:: §fИспользование - §e/fuck <ник>"
+        "ru": "§c§lWellCore §8:: §fИспользование - §e/fuck <ник>",
+        "en": "§c§lWellCore §8:: §fUsing - §e/fuck <nick>",
+        "ua": "§c§lWellCore §8:: §fВикористання - §e/fuck <нік>"
     },
     "UNPUNISH_HELP": {
         "ru": "§e§lWellCore §8:: §fИспользование - §e/un%s <ник>",
-        "en": "§e§lWellCore §8:: §fUsage - §e/un%s <name>"
+        "en": "§e§lWellCore §8:: §fUsing - §e/un%s <name>",
+        "ua": "§e§lWellCore §8:: §fВикористання - §e/un%s <name>"
     },
     "ALREADY_PUNISHED": {
         "ru": "§c§lWellCore §8:: §fОшибка, у игрока уже есть наказание с типом §b%s§f.",
-        "en": "§c§lWellCore §8:: §fPlayer already has §b%s§f punish."
+        "en": "§c§lWellCore §8:: §fPlayer already has §b%s§f punish.",
+        "ua": "§c§lWellCore §8:: §fПомилка, у гравця вже є покаранння с типом §b%s§f."
     },
     "STAFF_PUNISH_NOTIFY": {
-        "ru": "§e§lМодерация §8:: §f%s §fвыдал наказание §b%s §fигроку %s §fистекаюшее через §c%s§f по причине: §7%s."
+        "ru": "§e§lМодерация §8:: §f%s §fвыдал наказание §b%s §fигроку %s §fистекаюшее через §c%s§f по причине: §7%s.",
+        "en": "§e§lModeration §8:: §f%s §fissued a penalty §b%s §fto the player %s §fflowing through §c%s§f on account of: §7%s.",
+        "ua": "§e§lМодерація §8:: §f%s §fвидав покарання §b%s §fгравцю %s §fщо спливає через §c%s§f через: §7%s."
     },
     "STAFF_UNPUNISH_NOTIFY": {
-        "ru": "§e§lМодерация §8:: §f%s §fснял наказание §b%s§f с игрока %s"
+        "ru": "§e§lМодерация §8:: §f%s §fснял наказание §b%s§f с игрока %s",
+        "en": "§e§lModeration §8:: §f%s §fdropped the punishment §b%s§f from a player %s",
+        "ua": "§e§lМодерація §8:: §f%s §fзняв покарання §b%s§f з гравця %s"
     },
     "DONT_HAVE_PUNISH": {
         "ru": "§c§lWellCore §8:: §fОшибка, у игрока уже нету наказания с типом §b%s§f.",
-        "en": "§c§lWellCore §8:: §fPlayer dont have §b%s§f punish."
+        "en": "§c§lWellCore §8:: §fPlayer dont have §b%s§f punish.",
+        "ua": "§c§lWellCore §8:: §fПомилка, у гравця вже немає покарання з типом §b%s§f."
     },
     "MUTED_MESSAGE": {
         "ru": [
@@ -285,39 +354,87 @@
         " §7Подать апелляцию вы можете на форуме:",
         " §d§lforum.wellcore.fun",
         "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
-        ""]
+        ""],
+        "en": [
+            "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+            " §c§lYOU WERE MUTED!",
+            " §8",
+            " §7Muting: §e%s", 
+            " §7Expires after: §a%s",
+            " §9",
+            " §7Reason: §f%s",
+            " §1",
+            " §7You can file an appeal in the forum:",
+            " §d§lforum.wellcore.fun",
+            "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+            ""],
+        "ua": [
+            "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+            " §c§lВАС ЗАМУТИЛИ!",
+            " §8",
+            " §7Замутив: §e%s", 
+            " §7Минає через: §a%s",
+            " §9",
+            " §7Причина: §f%s",
+            " §1",
+            " §7Подати апеляцію ви можете на форумі:",
+            " §d§lforum.wellcore.fun",
+            "§8▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+            ""]
     },
     "GAMESELECTOR_ITEM_NAME": {
-        "ru": "§bВыбор режима"
+        "ru": "§bВыбор режима",
+        "en": "§bSelecting Mode",
+        "ua": "§bВибір режиму"
     },
     "GAMESELECTOR_ITEM_LORE": {
-        "ru": "§7что-то"
+        "ru": "§7что-то",
+        "en": "§7something",
+        "ua": "§7щось"
     },
     "MENU_PROFILE_NAME": {
-        "ru": "§bПрофиль"
+        "ru": "§bПрофиль",
+        "en": "§bProfile",
+        "ua": "§bПрофіль"
     },
     "MENU_PROFILE_LORE": {
-        "ru": "§7что-то"
+        "ru": "§7что-то",
+        "en": "§7something",
+        "ua": "§bВибір режиму"
     },
     "LOBBY_SELECTOR_NAME": {
-        "ru": "§dВыбор лобби"
+        "ru": "§dВыбор лобби",
+        "en": "§dChoice of lobby",
+        "ua": "§dВибір лобі"
     },
     "LOBBY_SELECTOR_LORE": {
-        "ru": "§7что-то"
+        "ru": "§7что-то",
+        "en": "§7something",
+        "ua": "§bВибір режиму"
     },
     "PREFIX_DEATH_NAME": {
-        "ru": "§aСообщения о смерти"
+        "ru": "§aСообщения о смерти",
+        "en": "§aMessage of dead",
+        "ua": "§aПовідомлення про смерть"
     },
     "PREFIX_DEATH_LORE": {
-        "ru": ["§a§lУникальная фишка нашего сервера", "", "§7Сделай выбор в пользу новых сообщений", "§7Со смерти и умирай красиво :D", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["§a§lУникальная фишка нашего сервера", "", "§7Сделай выбор в пользу новых сообщений", "§7о смерти и умирай красиво :D", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["§a§lA unique feature of our server", "", "§7Opt for new messages", "§7of death and die beautifully :D", "", "§e▶ Click to open menu!"],
+        "ua": ["§a§lУнікальна фішка нашого сервера", "", "§7Зроби вибір на користь нових повідомлень", "§7про смерть і вмирай красиво :D", "", "§e▶ Натисніть, щоб відкрити меню!"]
     },
     "EMPTY_LIST": {
-        "ru": "§cСписок пуст :c"
+        "ru": "§cСписок пуст :(",
+        "en": "§cСписок порожній :(",
+        "ua": "§cThe list is empty :("
     },
     "PREFIX_QUITER_NAME": {
-        "ru": "§dСообщения о выходе"
+        "ru": "§dСообщения о выходе",
+        "en": "§dExit messages",
+        "ua": "§dПовідомлення про вихід"
     },
     "PREFIX_QUITER_LORE": {
-        "ru": ["§7Хочешь чтобы игроки знали о твоём выходе?", "", "§7У нас есть множество прикольных вариантов!", "", "§7Выбери свой и пусть другие знают, кого потеряли", "", "§e▶ Нажмите, чтобы открыть меню!"]
+        "ru": ["§7Хочешь чтобы игроки знали о твоём выходе?", "", "§7У нас есть множество прикольных вариантов!", "", "§7Выбери свой и пусть другие знают, кого потеряли", "", "§e▶ Нажмите, чтобы открыть меню!"],
+        "en": ["§7Do you want players to know about your release?", "", "§7We have plenty of cool options!", "", "§7Choose yours and let others know who they've lost", "", "§e▶ Click to open the menu!"],
+        "ua": ["§7Хочеш, щоб гравці знали про твій вихід?", "", "§7У нас є багато класних варіантів!", "", "§7Вибери свій і дай іншим знати, кого вони втратили", "", "§e▶ Натисни, щоб відкрити меню!"]
     }
 }
