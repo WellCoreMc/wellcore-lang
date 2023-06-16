@@ -85,7 +85,7 @@
     "MODE_UNAVAILABLE_LORE": {
         "ru": "§c▶ Сервера не найдены!",
         "en": "§c▶ Servers not found!",
-        "ua": "§c▶ Серверыв не знайдено!"
+        "ua": "§c▶ Серверів не знайдено!"
     },
     "SERVER_NOT_FOUND": {
         "ru": "§c§lWellCore §7:: §fСервер не найден. Простите :(",
