@@ -5,90 +5,171 @@
         "ua": "Вибір лобі"
     },
     "DAILY_REWARDS_NPC_HOLO_1": {
-        "ru": "§bЕжедневные награды"
+        "ru": "§bЕжедневные награды",
+        "en": "§bDaily rewards",
+        "ua": "§bЩоденні нагороди"
     },
     "DAILY_REWARDS_NPC_HOLO_2": {
-        "ru": "§fНаграды за заход на сервер"
+        "ru": "§fНаграды за заход на сервер",
+        "en": "§fDaily rewads for the join to server",
+        "ua": "§fНагороди за вхід на сервер"
     },
     "DAILY_REWARDS_NPC_HOLO_3": {
-        "ru": "§7Нажмите, чтобы открыть"
+        "ru": "§7Нажмите, чтобы открыть",
+        "en": "§7Click to open",
+        "ua": "§7Натисніть, щоб відкрити"
     },
     "REWARD_LORE_CAN_GET": {
-        "ru": "§a▶ Нажмите, чтобы получить."
+        "ru": "§a▶ Нажмите, чтобы получить.",
+        "en": "§a▶ Click to get",
+        "ua": "§a▶ Натисніть, щоб отримати"
     },
     "REWARD_LORE_CANNOT_GET": {
-        "ru": "§c▶ Вы не можете получить эту награду."
+        "ru": "§c▶ Вы не можете получить эту награду.",
+        "en": "§c▶ You can't get this reward",
+        "ua": "§c▶ Ви не можете отримати цю нагороду"
     },
     "REWARDS_GUI_TITLE": {
-        "ru": "Ежедневные награды"
+        "ru": "Ежедневные награды",
+        "en": "Daily rewards",
+        "ua": "Щоденні нагороди"
     },
     "REWARD_NAME_1": {
-        "ru": "§bНаграда за 1 день"
+        "ru": "§bНаграда за 1 день",
+        "en": "§b1 Day Reward",
+        "ua": "§bНагорода за 1 день"
     },
     "REWARD_NAME_3": {
-        "ru": "§bНаграда за 3 дня"
+        "ru": "§bНаграда за 3 дня",
+        "en": "§b3 Day Reward",
+        "ua": "§bНагорода за 3 дні"
     },
     "REWARD_NAME_7": {
-        "ru": "§bНаграда за неделю"
+        "ru": "§bНаграда за неделю",
+        "en": "§bReward of the week",
+        "ua": "§bНагорода за неділю"
     },
     "REWARD_LORE_1": {
         "ru": ["",
             "§7В награде:",
             " §b+ 1 алмаз", 
             " §6+ 30 монет",
-            " §d+ 100 опыта", ""]
+            " §d+ 100 опыта", ""],
+        "en": ["",
+            "§7Reward:",
+            " §b+ 1 diamond",
+            " §6+ 30 coins",
+            " §d+ 100 experience", ""],
+        "ua": ["",
+            "§7У нагороді:",
+            " §b+ 1 діамант",
+            " §6+ 30 монет",
+            " §d+ 100 досвіду", ""]
     },
     "REWARD_LORE_3": {
         "ru": ["",
             "§7В награде:",
             " §b+ 3 алмаза", 
             " §6+ 90 монет",
-            " §d+ 300 опыта", ""]
+            " §d+ 300 опыта", ""],
+        "en": ["",
+            "§7Reward:",
+            " §b+ 3 diamonds",
+            " §6+ 90 coins",
+            " §d+ 300 experience", ""],
+        "ua": ["",
+            "§7У нагороді:",
+            " §b+ 3 діаманти",
+            " §6+ 90 монет",
+            " §d+ 300 досвіду", ""]
     },
     "REWARD_LORE_7": {
         "ru": ["",
             "§7В награде:",
             " §b+ 10 алмазов", 
             " §6+ 210 монет",
-            " §d+ 700 опыта", ""]
+            " §d+ 700 опыта", ""],
+        "en" : ["",
+            "§7Reward:",
+            " §b+ 10 diamonds",
+            " §6+ 210 coins",
+            " §d+ 700 experience", ""],
+        
+        "ua": ["",
+            "§7У нагороді:",
+            " §b+ 10 діамантів",
+            " §6+ 210 монет",
+            " §d+ 700 досвіду", ""]
     },
     "LOBBY_TITLE_HEADER": {
-        "ru": "§b§lОбновление Hub"
+        "ru": "§b§lЛетнее обновление",
+        "en": "§b§lSummer update",
+        "ua": "§b§lЛітнє оновлення"
     },
     "LOBBY_TITLE_FOOTER": {
-        "ru": "§fЛучший игрок, награды и другое"
+        "ru": "§fЛучший игрок, награды, и другое",
+        "en": "§fBest player, rewards and more",
+        "ua": "§fКращий гравець, нагороди та інше"
     },
     "BEST_PLAYER_GUI_TITLE": {
-        "ru": "Перекупить статус лучшего игрока"
+        "ru": "Перекупить статус лучшего игрока",
+        "en": "Re-buy best player status",
+        "ua": "Перекупити статус кращого гравця"
     },
     "BEST_PLAYER_NPC_HOLO_TITLE": {
-        "ru": "§bЛучший игрок сервера"
+        "ru": "§bЛучший игрок сервера",
+        "en": "§bBest server player",
+        "ua": "§bКращий гравець серверу"
     },
     "BEST_PLAYER_NPC_HOLO_CLICK": {
-        "ru": "§7Нажмите, чтобы перекупить"
+        "ru": "§7Нажмите, чтобы перекупить",
+        "en": "§7Click to re-buy",
+        "ua": "§7Натисніть, щоб перекупити"
     },
     "DONT_HAVE_BEST_PLAYER_NAME": {
-        "ru": "§cЛучшего игрока ещё нету :c"
+        "ru": "§cЛучшего игрока ещё нету :c",
+        "en": "§cNo best player yet :c",
+        "ua": "§cКращого гравця ще нема :c"
     },
     "BEST_PLAYER_NAME": {
-        "ru": "§bЛучший игрок - %s"
+        "ru": "§bЛучший игрок - %s",
+        "en": "§bBest player - %s",
+        "ua": "§bКращий гравець - %s"
     },
     "BEST_PLAYER_BUY_NAME": {
-        "ru": "§bПерекупить на %s"
+        "ru": "§bПерекупить на %s",
+        "en": "§bTo re-buy on %s",
+        "ua": "§bПерекупити на %s"
     },
     "BEST_PLAYER_BUY_LORE": {
         "ru": [
             "",
-            "§7Цена: §b%s"]
+            "§7Цена: §b%s"],
+        "en": [
+            "",
+            "§7Price: §b%s"],
+        "ua": [
+            "",
+            "§7Ціна: §b%s"]
     },
     "BEST_PLAYER_CANT_BUY_NAME": {
-        "ru": "§cА нельзя, увы :c"
+        "ru": "§cА нельзя, увы :c",
+        "en": "§cAnd you can't, alas. :c",
+        "ua": "§cА не можна, на жаль :c"
     },
     "BEST_PLAYER_CANT_BUY_LORE": {
         "ru": [
             "§7Простите пожалуйста, но мы еще",
             "§7не изобрели возможность перекупки",
-            "§7статуса у себя. лол."]
+            "§7статуса у себя. лол."],
+        "en": [
+            "§7I'm sorry, but we're still",
+            "§7have not invented the possibility of re-buying",
+            "§7status with yourself. lol."],
+        "ua": [
+            "§7Вибачте, будь ласка, але ми ще",
+            "§7не винайшли можливість перекупки",
+            "§7статусу в себе. лол."]
     },
     "BEST_PLAYER_LORE": {
         "ru": [
@@ -99,18 +180,46 @@
             " §7Куплен: §f%s назад",
             " §7Истекает через: §a%s",
             " §7Игрок заплатил: §b%s",
+            ""],
+        "en": [
+            "This awesome player supported the server",
+            "and received this status :)",
+            "",
+            "§8[Status Information]:",
+            " §7Purchased: §f%s ago",
+            " §7Expires in: §a%s",
+            " §7Player paid: §b%s",
+            ""],
+        "ua": [
+            "§7Цей класний гравець підтримав сервер",
+            "§7та отримав такий статус :)",
+            "",
+            "§8[Інформація про статус]:",
+            " §7Куплено: §f%s тому",
+            " §7Закінчується через: §a%s",
+            " §7Гравець заплатив: §b%s",
             ""]
     },
     "DONT_HAVE_BEST_PLAYER_LORE": {
         "ru": [
             "§7Возможно, статус лучшего игрока",
-            "§7ждёт именно вас.."]
+            "§7ждёт именно вас.."],
+        "en": [
+            "§7Perhaps the status of the best player",
+            "§7awaits you.."],
+        "ua": [
+            "§7Можливо, статус найкращого гравця",
+            "§7чекає саме на вас.."]
     },
     "CANT_BECOME_BESTPLAYER_AGAIN": {
-        "ru": "§c§lWellCore §7:: §fВы уже являетесь лучшим игроком. Куда дальше то?)"
+        "ru": "§c§lWellCore §7:: §fВы уже являетесь лучшим игроком. Куда дальше то?)",
+        "en": "§c§lWellCore §7:: §fYou are already the best player. How much farther?)",
+        "ua": "§c§lWellCore §7:: §fВи вже є найкращим гравцем. Куди ще далі?)"
     },
     "SUCCESS_BUY_BESTPLAYER_PLACE": {
-        "ru": "§b§lWellCore §7:: §fNO WAY! Вы правда купили статус лучшего игрока сервера! Подождите пару секунд и вы сможете увидеть себя в NPC."
+        "ru": "§b§lWellCore §7:: §fNO WAY! Вы правда купили статус лучшего игрока сервера! Подождите пару секунд и вы сможете увидеть себя в NPC.",
+        "en": "§b§lWellCore §7:: §fNO WAY! Did you actually purchase the best player status on the server! Wait a few seconds and you'll be able to see yourself in the NPC.",
+        "ua": "§b§lWellCore §7:: §fNO WAY! Ви насправді придбали статус найкращого гравця сервера! Зачекайте кілька секунд, і ви зможете побачити себе в NPC."
     },
     "LOBBY_SELECTOR_ITEM_LORE_OTHER": {
         "ru": [
