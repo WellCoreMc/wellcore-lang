@@ -49,10 +49,13 @@
     },
     "LOADING_ITEM_LORE": {
         "ru": "§7Идёт загрузка данных",
-        "en": "§7Data is being loaded"
+        "en": "§7Data is being loaded",
+        "ua": "§7Йде завантаження даних"
     },
     "INFO_ITEM_NAME": {
-        "ru": "§bИнформация"
+        "ru": "§bИнформация",
+        "en": "§bInformation",
+        "ua": "§bІнформація"
     },
     "LANGUAGE_TITLE":{
         "ru": "Выбор языка",
