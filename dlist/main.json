@@ -1,8 +1,19 @@
 {
+
     "PING_MESSAGE": {
         "ru": "§b§lWellCore §8:: §fВаш пинг §a%s §fмс",
         "en": "§b§lWellCore §8:: §fYour ping is §a%s §fms",
         "ua": "§b§lWellcore §8:: §fВаш пінг §a%s §fмс"
+    },
+    "GAMEMODE_NPC_HOLO_2": {
+        "ru": "Онлайн: %s",
+        "en": "Online: %s"
+    },
+    "GAMEMODE_NPC_HOLO_CONNECT": {
+        "ru": "§7Нажмите, чтобы подключиться"
+    },
+    "GAMEMODE_NPC_HOLO_CANT": {
+        "ru": "§cРежим не доступен!"
     },
     "LOADING_ITEM_NAME": {
         "ru": "§cЗагрузка...",
@@ -117,15 +128,27 @@
         "en": "§c§lWellCore §7:: §fUsing - §b/kick <nick> <reason>",
         "ua": "§c§lWellCore §7:: §fВикористання - §b/kick <нік> <причина>"
     },
+    "FIND_USAGE": {
+        "ru": "§c§lWellCore §7:: §fИспользование - §b/find <ник>"
+    },
+    "NEVER_PLAYED_ON_PROJECT": {
+        "ru": "§c§lWellCore §7:: §fУказанный игрок даже не зарегистрирован на проекте. Камон?"
+    },
+    "FIND_OFFLINE": {
+        "ru": "§b§lWellCore §7:: §fИгрок %s§f последний раз был онлайн §b%s назад§f на сервере §a%s"
+    },
+    "FIND_ONLINE": {
+        "ru": "§b§lWellCore §7:: §fИгрок %s§f сейчас на сервере §b%s"
+    },
     "ADDMONEY_HELP": {
         "ru": "§c§lWellCore §7:: §fИспользование - §b/addmoney <ник> <coins/diamonds> <значение>",
         "en": "§c§lWellCore §7:: §fUsage - §b/addmoney <nick> <coins/diamonds> <value>",
         "ua": "§c§lWellCore §7:: §fВикористовуйте - §b/setgroup <нік> <coins/diamonds> <значення>"
     },
     "ADDMONEY_SUCCESSFUL": {
-        "ru": "§a§lWellCore §7:: §fИзменено количество валюты §e%s §fу игрока %s§f на §a+ %s",
-        "en": "§a§lWellCore §7:: §fChanged amount of currency §e%s §fу player %s§f on §a+ %s",
-        "ua": "§a§lWellCore §7:: §fЗмінено кількість валюти §e%s §fу гравця %s§f на §a+ %s"
+        "ru": "§a§lWellCore §7:: §fИзменено количество валюты §e%s §fу игрока %s§f на §a%s",
+        "en": "§a§lWellCore §7:: §fChanged amount of currency §e%s §fу player %s§f on §a%s",
+        "ua": "§a§lWellCore §7:: §fЗмінено кількість валюти §e%s §fу гравця %s§f на §a%s"
     },
     "PLAYER_NOT_FOUND": {
         "ru": "§c§lWellCore §7:: §fУказанный игрок не найден!",
