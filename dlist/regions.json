@@ -1,12 +1,18 @@
 {
     "SELECTOR_ITEM_NAME": {
-        "ru": "§eПоследняя локация"
+        "ru": "§eПоследняя локация",
+        "en": "§eLast location",
+        "ua": "§eОстання локація"
     },
     "SELECTOR_ITEM_LORE": {
         "ru": ["",
         "§7Это топор который выделяет территорию",
         "§7Используйте §a[ПКМ]§7 и §a[ЛКМ]",
-        "§7по границам территории (pos1, pos2)"]
+        "§7по границам территории (pos1, pos2)"],
+        "en": ["",
+        "§7This is the axe that marks out the territory",
+        "§7Use §a[RMB]§7 and §a[LMB]",
+        "§7 by territory boundaries (pos1, pos2)"]
     },
     "SETPOS_SUCCESS": {
         "ru": "§b§lWellCore §7:: §fВы успешно установили позицию %s"
