@@ -63,6 +63,15 @@
         "en": "§7Data is being loaded",
         "ua": "§7Йде завантаження даних"
     },
+    "SUCCESS_SIT": {
+        "ru": "§b§lWellCore §7:: §fВы успешно сели. :D"
+    },
+    "SUCCESS_STAND": {
+        "ru": "§b§lWellCore §7:: §fВы успешно встали. :D"
+    },
+    "SUCCESS_SIT_ON_PLAYER": {
+        "ru": "§b§lWellCore §7:: §fЛол, вы сели на игрока - %s"
+    },
     "INFO_ITEM_NAME": {
         "ru": "§bИнформация",
         "en": "§bInformation",
