@@ -28,10 +28,9 @@
         "en": "§d§lENDER",
         "ua": "§d§lЕНДЕР"
     },
-    "ENDER_PLUS_NAME": {
-        "ru": "§7§lЭНДЭР+",
-        "en": "§7§lENDER+",
-        "ua": "§7§lЕНДЕР+"
+    "SHULKER_NAME": {
+        "ru": "§7§lШАЛКЕР",
+        "en": "§7§lSHULKER"
     },
     "NITRO_NAME": {
         "ru": "§8Дc. Бустер",
