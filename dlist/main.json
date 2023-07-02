@@ -5,6 +5,12 @@
         "en": "§b§lWellCore §8:: §fYour ping is §a%s §fms",
         "ua": "§b§lWellcore §8:: §fВаш пінг §a%s §fмс"
     },
+    "PLAYTIME_YOUR": {
+        "ru": "§b§lWellCore §8:: §fВы отыграли на сервере §b%s"
+    },
+    "PLAYTIME_OTHER": {
+        "ru": "§b§lWellCore §8:: §fИгрок %s §fотыграл на сервере §b%s"
+    },
     "GAMEMODE_NPC_HOLO_2": {
         "ru": "Онлайн: %s",
         "en": "Online: %s"
